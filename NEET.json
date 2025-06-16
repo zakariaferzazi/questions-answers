@@ -1,0 +1,5380 @@
+{
+  "categorized_questions": {
+  "Biology": [
+    {
+      "question": "What is the powerhouse of the cell?",
+      "options": [
+        "Nucleus",
+        "Mitochondria",
+        "Ribosome",
+        "Endoplasmic reticulum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mitochondria are called the powerhouse of the cell because they produce ATP through cellular respiration.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which process converts light energy into chemical energy in plants?",
+      "options": [
+        "Respiration",
+        "Photosynthesis",
+        "Transpiration",
+        "Fermentation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Photosynthesis is the process where plants convert light energy (from sunlight) into chemical energy (glucose).",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the basic unit of heredity?",
+      "options": [
+        "Chromosome",
+        "DNA",
+        "Gene",
+        "Allele"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A gene is the basic unit of heredity that carries information from parents to offspring.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which blood group is considered the universal donor?",
+      "options": [
+        "A",
+        "B",
+        "AB",
+        "O"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Blood group O (especially O-negative) is the universal donor because it lacks A and B antigens that could cause immune reactions.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the study of plants called?",
+      "options": [
+        "Zoology",
+        "Botany",
+        "Ecology",
+        "Anatomy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Botany is the scientific study of plants, including their structure, growth, reproduction, and evolution.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which organelle is responsible for protein synthesis?",
+      "options": [
+        "Golgi apparatus",
+        "Lysosomes",
+        "Ribosomes",
+        "Vacuoles"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ribosomes are the cellular organelles responsible for protein synthesis by translating mRNA into proteins.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the normal human body temperature?",
+      "options": [
+        "36.5°C",
+        "37°C",
+        "38°C",
+        "39°C"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The normal human body temperature is approximately 37°C (98.6°F), regulated by the hypothalamus.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which hormone regulates blood sugar levels?",
+      "options": [
+        "Thyroxine",
+        "Insulin",
+        "Adrenaline",
+        "Growth hormone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Insulin, produced by pancreatic beta cells, regulates blood glucose levels by facilitating cellular glucose uptake.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the largest organ in the human body?",
+      "options": [
+        "Liver",
+        "Lungs",
+        "Skin",
+        "Brain"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The skin is the largest organ in the human body, covering the entire external surface and performing multiple functions.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which gas is primarily responsible for the greenhouse effect?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Carbon dioxide is the primary greenhouse gas responsible for trapping heat in Earth's atmosphere.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the functional unit of the kidney?",
+      "options": [
+        "Glomerulus",
+        "Nephron",
+        "Bowman's capsule",
+        "Loop of Henle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The nephron is the functional unit of the kidney, responsible for filtration, reabsorption, and excretion.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which vitamin is synthesized in the skin upon exposure to sunlight?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Vitamin D is synthesized in the skin when exposed to UVB radiation from sunlight.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the process of programmed cell death called?",
+      "options": [
+        "Necrosis",
+        "Apoptosis",
+        "Mitosis",
+        "Meiosis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Apoptosis is programmed cell death, a normal physiological process essential for development and tissue homeostasis.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which part of the brain controls balance and coordination?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Hypothalamus"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The cerebellum is responsible for balance, coordination, and fine motor control.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the hardest substance in the human body?",
+      "options": [
+        "Bone",
+        "Cartilage",
+        "Tooth enamel",
+        "Nail"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Tooth enamel is the hardest substance in the human body, composed primarily of hydroxyapatite crystals.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which type of muscle is found in the heart?",
+      "options": [
+        "Skeletal muscle",
+        "Smooth muscle",
+        "Cardiac muscle",
+        "Voluntary muscle"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Cardiac muscle is the specialized muscle tissue found only in the heart, combining features of skeletal and smooth muscle.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the scientific name for humans?",
+      "options": [
+        "Homo erectus",
+        "Homo sapiens",
+        "Homo habilis",
+        "Homo neanderthalensis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Homo sapiens is the scientific name for modern humans, meaning 'wise man' in Latin.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which component of blood is responsible for clotting?",
+      "options": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Platelets (thrombocytes) are responsible for blood clotting and hemostasis when blood vessels are damaged.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the term for organisms that make their own food?",
+      "options": [
+        "Heterotrophs",
+        "Autotrophs",
+        "Decomposers",
+        "Parasites"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Autotrophs are organisms that can produce their own food using light energy (photosynthesis) or chemical energy (chemosynthesis).",
+      "category": "Biology"
+    },
+    {
+      "question": "Which acid is found in the stomach?",
+      "options": [
+        "Sulfuric acid",
+        "Nitric acid",
+        "Hydrochloric acid",
+        "Acetic acid"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hydrochloric acid (HCl) is produced by parietal cells in the stomach for digestion and antimicrobial protection.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the longest bone in the human body?",
+      "options": [
+        "Tibia",
+        "Femur",
+        "Humerus",
+        "Radius"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The femur (thighbone) is the longest and strongest bone in the human body.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which enzyme breaks down starch into sugars?",
+      "options": [
+        "Pepsin",
+        "Amylase",
+        "Lipase",
+        "Trypsin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Amylase is the enzyme that breaks down starch into maltose and other simple sugars during digestion.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the primary function of hemoglobin?",
+      "options": [
+        "Blood clotting",
+        "Fighting infections",
+        "Oxygen transport",
+        "Nutrient transport"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Hemoglobin is the iron-containing protein in red blood cells that transports oxygen from lungs to tissues.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which organelle contains the cell's genetic material?",
+      "options": [
+        "Cytoplasm",
+        "Nucleus",
+        "Mitochondria",
+        "Endoplasmic reticulum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The nucleus contains the cell's genetic material (DNA) and controls cellular activities and gene expression.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the process of water loss from plant leaves called?",
+      "options": [
+        "Photosynthesis",
+        "Respiration",
+        "Transpiration",
+        "Translation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Transpiration is the process of water loss from plant leaves through stomata, helping in water transport and cooling.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which type of joint allows the most movement?",
+      "options": [
+        "Fixed joint",
+        "Slightly movable joint",
+        "Ball and socket joint",
+        "Hinge joint"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ball and socket joints (like shoulder and hip) allow the greatest range of movement in multiple directions.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the smallest unit of life?",
+      "options": [
+        "Atom",
+        "Molecule",
+        "Cell",
+        "Tissue"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The cell is the smallest unit of life, exhibiting all characteristics of living organisms.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which gland is known as the 'master gland'?",
+      "options": [
+        "Thyroid gland",
+        "Adrenal gland",
+        "Pituitary gland",
+        "Pancreas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The pituitary gland is called the master gland because it controls other endocrine glands through hormone secretion.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the basic unit of the nervous system?",
+      "options": [
+        "Synapse",
+        "Neuron",
+        "Dendrite",
+        "Axon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The neuron (nerve cell) is the basic structural and functional unit of the nervous system.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which process occurs in the alveoli of the lungs?",
+      "options": [
+        "Digestion",
+        "Gas exchange",
+        "Blood production",
+        "Hormone secretion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Gas exchange occurs in the alveoli, where oxygen enters the blood and carbon dioxide is removed.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the gestation period of humans?",
+      "options": [
+        "8 months",
+        "9 months",
+        "10 months",
+        "11 months"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The human gestation period is approximately 9 months (38-40 weeks) from conception to birth.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which part of the eye controls the amount of light entering?",
+      "options": [
+        "Cornea",
+        "Lens",
+        "Iris",
+        "Retina"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The iris controls the amount of light entering the eye by adjusting the size of the pupil.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the main component of plant cell walls?",
+      "options": [
+        "Lignin",
+        "Cellulose",
+        "Pectin",
+        "Chitin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cellulose is the main structural component of plant cell walls, providing strength and rigidity.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which chamber of the heart pumps blood to the lungs?",
+      "options": [
+        "Left atrium",
+        "Right atrium",
+        "Left ventricle",
+        "Right ventricle"
+      ],
+      "correctAnswer": 3,
+      "explanation": "The right ventricle pumps deoxygenated blood to the lungs through the pulmonary artery.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the study of heredity called?",
+      "options": [
+        "Ecology",
+        "Genetics",
+        "Anatomy",
+        "Physiology"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Genetics is the branch of biology that studies heredity and variation in living organisms.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which molecule stores energy in cells?",
+      "options": [
+        "DNA",
+        "RNA",
+        "ATP",
+        "Protein"
+      ],
+      "correctAnswer": 2,
+      "explanation": "ATP (Adenosine Triphosphate) is the primary energy storage molecule in cells, often called 'cellular currency'.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the fluid inside the cell called?",
+      "options": [
+        "Cytoplasm",
+        "Nucleoplasm",
+        "Protoplasm",
+        "Cell sap"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Cytoplasm is the gel-like substance inside the cell that contains organelles and cellular components.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which system removes waste products from the blood?",
+      "options": [
+        "Respiratory system",
+        "Digestive system",
+        "Excretory system",
+        "Circulatory system"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The excretory system, primarily through kidneys, removes waste products and excess substances from the blood.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the chromosome number in human gametes?",
+      "options": [
+        "23",
+        "46",
+        "22",
+        "44"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Human gametes (sex cells) have 23 chromosomes, half the number found in somatic cells (46).",
+      "category": "Biology"
+    },
+    {
+      "question": "Which enzyme is found in saliva?",
+      "options": [
+        "Pepsin",
+        "Ptyalin",
+        "Trypsin",
+        "Chymotrypsin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ptyalin (salivary amylase) is the enzyme found in saliva that begins starch digestion in the mouth.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the outermost layer of the skin called?",
+      "options": [
+        "Dermis",
+        "Epidermis",
+        "Hypodermis",
+        "Subcutaneous tissue"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The epidermis is the outermost layer of the skin, providing protection and barrier functions.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which blood vessel carries blood away from the heart?",
+      "options": [
+        "Vein",
+        "Artery",
+        "Capillary",
+        "Venule"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Arteries carry blood away from the heart to various parts of the body, usually carrying oxygenated blood.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the male reproductive part of a flower called?",
+      "options": [
+        "Pistil",
+        "Stamen",
+        "Sepal",
+        "Petal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The stamen is the male reproductive part of a flower, consisting of anthers and filaments that produce pollen.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which vitamin deficiency causes scurvy?",
+      "options": [
+        "Vitamin A",
+        "Vitamin B",
+        "Vitamin C",
+        "Vitamin D"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Scurvy is caused by vitamin C (ascorbic acid) deficiency, leading to connective tissue problems.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the process of cell division that produces gametes?",
+      "options": [
+        "Mitosis",
+        "Meiosis",
+        "Binary fission",
+        "Budding"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Meiosis is the process of cell division that produces gametes with half the chromosome number.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which structure connects muscles to bones?",
+      "options": [
+        "Ligaments",
+        "Tendons",
+        "Cartilage",
+        "Fascia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Tendons are fibrous connective tissues that connect muscles to bones, enabling movement.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the liquid part of blood called?",
+      "options": [
+        "Serum",
+        "Plasma",
+        "Lymph",
+        "Hemoglobin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Plasma is the liquid component of blood, containing water, proteins, nutrients, and waste products.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which organelle is responsible for cellular respiration?",
+      "options": [
+        "Chloroplast",
+        "Mitochondria",
+        "Nucleus",
+        "Ribosome"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mitochondria are the organelles responsible for cellular respiration, converting glucose into ATP.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the scientific study of insects called?",
+      "options": [
+        "Ornithology",
+        "Herpetology",
+        "Entomology",
+        "Ichthyology"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Entomology is the scientific study of insects, their behavior, ecology, and classification.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which part of the digestive system absorbs most nutrients?",
+      "options": [
+        "Stomach",
+        "Large intestine",
+        "Small intestine",
+        "Esophagus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The small intestine is where most nutrient absorption occurs due to its length and specialized villi.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the green pigment in plants called?",
+      "options": [
+        "Carotene",
+        "Chlorophyll",
+        "Anthocyanin",
+        "Xanthophyll"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chlorophyll is the green pigment in plants that captures light energy for photosynthesis.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which hormone is responsible for the fight-or-flight response?",
+      "options": [
+        "Insulin",
+        "Cortisol",
+        "Adrenaline",
+        "Thyroxine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Adrenaline (epinephrine) is the hormone responsible for the fight-or-flight response during stress.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the functional unit of the lung?",
+      "options": [
+        "Bronchus",
+        "Bronchiole",
+        "Alveolus",
+        "Trachea"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The alveolus is the functional unit of the lung where gas exchange occurs.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which type of blood cell fights infections?",
+      "options": [
+        "Red blood cells",
+        "White blood cells",
+        "Platelets",
+        "Plasma cells"
+      ],
+      "correctAnswer": 1,
+      "explanation": "White blood cells (leukocytes) are part of the immune system and fight infections and diseases.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the process by which plants lose water through their leaves?",
+      "options": [
+        "Evaporation",
+        "Transpiration",
+        "Condensation",
+        "Sublimation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transpiration is the process by which plants lose water vapor through their stomata, primarily in leaves.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which structure in the ear is responsible for hearing?",
+      "options": [
+        "Semicircular canals",
+        "Cochlea",
+        "Eustachian tube",
+        "Vestibule"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The cochlea is the spiral-shaped structure in the inner ear responsible for converting sound waves to nerve impulses.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the largest artery in the human body?",
+      "options": [
+        "Pulmonary artery",
+        "Carotid artery",
+        "Aorta",
+        "Coronary artery"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The aorta is the largest artery in the human body, carrying oxygenated blood from the left ventricle.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which molecule carries genetic information from DNA to ribosomes?",
+      "options": [
+        "tRNA",
+        "mRNA",
+        "rRNA",
+        "DNA polymerase"
+      ],
+      "correctAnswer": 1,
+      "explanation": "mRNA (messenger RNA) carries genetic information from DNA in the nucleus to ribosomes for protein synthesis.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the study of fungi called?",
+      "options": [
+        "Mycology",
+        "Virology",
+        "Bacteriology",
+        "Parasitology"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Mycology is the branch of biology that studies fungi, including their taxonomy, ecology, and applications.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which part of the brain controls breathing?",
+      "options": [
+        "Cerebrum",
+        "Cerebellum",
+        "Medulla oblongata",
+        "Hypothalamus"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The medulla oblongata controls vital functions including breathing, heart rate, and blood pressure.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the term for an organism's complete set of DNA?",
+      "options": [
+        "Genome",
+        "Chromosome",
+        "Gene",
+        "Allele"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The genome is an organism's complete set of DNA, including all genes and non-coding sequences.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which structure protects the lung?",
+      "options": [
+        "Diaphragm",
+        "Pleura",
+        "Pericardium",
+        "Peritoneum"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pleura is a double-layered membrane that surrounds and protects the lungs.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the main function of the large intestine?",
+      "options": [
+        "Protein digestion",
+        "Fat absorption",
+        "Water absorption",
+        "Vitamin synthesis"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The large intestine's main function is water absorption from undigested food material and waste elimination.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which gas do plants release during photosynthesis?",
+      "options": [
+        "Carbon dioxide",
+        "Oxygen",
+        "Nitrogen",
+        "Carbon monoxide"
+      ],
+      "correctAnswer": 1,
+      "explanation": "During photosynthesis, plants release oxygen as a byproduct while converting CO2 and water into glucose.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the smallest blood vessel called?",
+      "options": [
+        "Arteriole",
+        "Venule",
+        "Capillary",
+        "Lymphatic vessel"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Capillaries are the smallest blood vessels where exchange of gases, nutrients, and waste occurs.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which organ produces bile?",
+      "options": [
+        "Pancreas",
+        "Liver",
+        "Gallbladder",
+        "Stomach"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The liver produces bile, which is stored in the gallbladder and used for fat digestion.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the basic unit of classification in taxonomy?",
+      "options": [
+        "Genus",
+        "Family",
+        "Species",
+        "Order"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Species is the basic unit of classification in taxonomy, representing organisms that can interbreed.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which structure in plants is responsible for water and mineral transport?",
+      "options": [
+        "Phloem",
+        "Xylem",
+        "Cambium",
+        "Epidermis"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Xylem is the vascular tissue responsible for transporting water and minerals from roots to leaves.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the normal pH of human blood?",
+      "options": [
+        "6.8-7.0",
+        "7.0-7.2",
+        "7.35-7.45",
+        "7.5-7.7"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Normal human blood pH is tightly regulated between 7.35-7.45, slightly alkaline.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which type of immunity is acquired through vaccination?",
+      "options": [
+        "Natural active immunity",
+        "Artificial active immunity",
+        "Natural passive immunity",
+        "Artificial passive immunity"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Vaccination provides artificial active immunity by stimulating the immune system with antigens.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the term for animals that are active during the night?",
+      "options": [
+        "Diurnal",
+        "Nocturnal",
+        "Crepuscular",
+        "Cathemeral"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nocturnal animals are active during the night and rest during the day.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which structure connects the two cerebral hemispheres?",
+      "options": [
+        "Corpus callosum",
+        "Brain stem",
+        "Cerebellum",
+        "Thalamus"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The corpus callosum is the structure that connects the left and right cerebral hemispheres.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the main component of natural gas produced in anaerobic digestion?",
+      "options": [
+        "Carbon dioxide",
+        "Methane",
+        "Hydrogen sulfide",
+        "Ammonia"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Methane is the main component of biogas produced during anaerobic digestion of organic matter.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which hormone regulates calcium levels in blood?",
+      "options": [
+        "Insulin",
+        "Calcitonin",
+        "Thyroxine",
+        "Cortisol"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Calcitonin, produced by the thyroid gland, helps regulate blood calcium levels.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the study of the structure of organisms called?",
+      "options": [
+        "Physiology",
+        "Anatomy",
+        "Morphology",
+        "Histology"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Anatomy is the branch of biology that studies the structure of organisms and their parts.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which process converts atmospheric nitrogen into ammonia?",
+      "options": [
+        "Nitrification",
+        "Denitrification",
+        "Nitrogen fixation",
+        "Ammonification"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Nitrogen fixation is the process that converts atmospheric nitrogen gas into ammonia or related compounds.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the membrane surrounding the heart called?",
+      "options": [
+        "Pleura",
+        "Pericardium",
+        "Peritoneum",
+        "Myocardium"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The pericardium is the double-walled membrane surrounding the heart, providing protection and lubrication.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which type of muscle contraction occurs without change in muscle length?",
+      "options": [
+        "Isotonic contraction",
+        "Isometric contraction",
+        "Eccentric contraction",
+        "Concentric contraction"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Isometric contraction occurs when muscle generates force without changing length, like holding a weight steady.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the primary function of the lymphatic system?",
+      "options": [
+        "Hormone transport",
+        "Immunity and fluid balance",
+        "Nutrient absorption",
+        "Waste elimination"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The lymphatic system's primary functions are immunity (fighting infections) and maintaining fluid balance.",
+      "category": "Biology"
+    },
+    {
+      "question": "Which organelle is known as the 'suicide bag' of the cell?",
+      "options": [
+        "Mitochondria",
+        "Golgi apparatus",
+        "Lysosome",
+        "Endoplasmic reticulum"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lysosomes are called 'suicide bags' because they contain digestive enzymes that can break down cellular components.",
+      "category": "Biology"
+    },
+    {
+      "question": "What is the total number of bones in an adult human body?",
+      "options": [
+        "206",
+        "208",
+        "210",
+        "212"
+      ],
+      "correctAnswer": 0,
+      "explanation": "An adult human skeleton typically contains 206 bones, reduced from about 270 bones at birth due to fusion.",
+      "category": "Biology"
+    }
+  ],
+  "Chemistry": [
+    {
+      "question": "What is the atomic number of carbon?",
+      "options": [
+        "4",
+        "6",
+        "8",
+        "12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carbon has atomic number 6, meaning it has 6 protons in its nucleus.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which gas is produced when zinc reacts with hydrochloric acid?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Zn + 2HCl → ZnCl₂ + H₂. Hydrogen gas is produced when zinc reacts with hydrochloric acid.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the molecular formula of water?",
+      "options": [
+        "H₂O",
+        "HO₂",
+        "H₂O₂",
+        "HO"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Water has the molecular formula H₂O, consisting of two hydrogen atoms and one oxygen atom.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which is the most electronegative element?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Fluorine",
+        "Chlorine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Fluorine is the most electronegative element with a value of 4.0 on the Pauling scale.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the pH of pure water at 25°C?",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Pure water has a pH of 7 at 25°C, which is considered neutral.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which type of bond is formed between metal and non-metal atoms?",
+      "options": [
+        "Covalent bond",
+        "Ionic bond",
+        "Metallic bond",
+        "Hydrogen bond"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ionic bonds are formed between metal and non-metal atoms through transfer of electrons.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the valency of nitrogen in ammonia (NH₃)?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In ammonia (NH₃), nitrogen shows a valency of 3 by forming three covalent bonds with hydrogen atoms.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which gas is used in the Haber process?",
+      "options": [
+        "Nitrogen and oxygen",
+        "Nitrogen and hydrogen",
+        "Hydrogen and oxygen",
+        "Carbon monoxide and hydrogen"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The Haber process uses nitrogen and hydrogen gases to produce ammonia: N₂ + 3H₂ → 2NH₃.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the IUPAC name of CH₃CH₂OH?",
+      "options": [
+        "Methanol",
+        "Ethanol",
+        "Propanol",
+        "Butanol"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CH₃CH₂OH is ethanol, a two-carbon alcohol with the IUPAC name ethanol.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which law states that equal volumes of gases contain equal numbers of molecules at STP?",
+      "options": [
+        "Boyle's law",
+        "Charles's law",
+        "Avogadro's law",
+        "Gay-Lussac's law"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Avogadro's law states that equal volumes of gases at the same temperature and pressure contain equal numbers of molecules.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the oxidation state of sulfur in H₂SO₄?",
+      "options": [
+        "+4",
+        "+6",
+        "-2",
+        "+2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In sulfuric acid (H₂SO₄), sulfur has an oxidation state of +6.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which catalyst is used in the contact process for sulfuric acid production?",
+      "options": [
+        "Iron",
+        "Nickel",
+        "Vanadium pentoxide",
+        "Platinum"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vanadium pentoxide (V₂O₅) is used as a catalyst in the contact process for sulfuric acid production.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the hybridization of carbon in methane (CH₄)?",
+      "options": [
+        "sp",
+        "sp²",
+        "sp³",
+        "sp³d"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Carbon in methane undergoes sp³ hybridization, forming four equivalent bonds in a tetrahedral geometry.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which element has the highest first ionization energy?",
+      "options": [
+        "Hydrogen",
+        "Helium",
+        "Lithium",
+        "Fluorine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Helium has the highest first ionization energy due to its complete electron shell and high nuclear charge.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the shape of ammonia (NH₃) molecule?",
+      "options": [
+        "Linear",
+        "Trigonal planar",
+        "Trigonal pyramidal",
+        "Tetrahedral"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ammonia has a trigonal pyramidal shape due to the presence of a lone pair on nitrogen.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which acid is present in vinegar?",
+      "options": [
+        "Hydrochloric acid",
+        "Sulfuric acid",
+        "Acetic acid",
+        "Nitric acid"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Vinegar contains acetic acid (CH₃COOH), typically in 3-5% concentration.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the number of moles in 22.4 L of any gas at STP?",
+      "options": [
+        "0.5 mol",
+        "1 mol",
+        "2 mol",
+        "22.4 mol"
+      ],
+      "correctAnswer": 1,
+      "explanation": "At STP, 22.4 L of any gas contains 1 mole of molecules (Avogadro's law).",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which element is used as a reducing agent in the extraction of iron?",
+      "options": [
+        "Carbon",
+        "Hydrogen",
+        "Aluminum",
+        "Sodium"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Carbon (in the form of coke) is used as a reducing agent in the extraction of iron from its ores.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the functional group in aldehydes?",
+      "options": [
+        "-OH",
+        "-CHO",
+        "-COOH",
+        "-CO-"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Aldehydes contain the -CHO functional group (carbonyl group with hydrogen).",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which noble gas has the lowest boiling point?",
+      "options": [
+        "Helium",
+        "Neon",
+        "Argon",
+        "Krypton"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Helium has the lowest boiling point (-269°C) among all noble gases due to weak van der Waals forces.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the electron configuration of sodium (Na)?",
+      "options": [
+        "1s² 2s² 2p⁶ 3s¹",
+        "1s² 2s² 2p⁶ 3s²",
+        "1s² 2s² 2p⁵ 3s²",
+        "1s² 2s² 2p⁶ 3p¹"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Sodium (atomic number 11) has electron configuration 1s² 2s² 2p⁶ 3s¹.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which type of isomerism is shown by lactic acid?",
+      "options": [
+        "Chain isomerism",
+        "Position isomerism",
+        "Optical isomerism",
+        "Functional isomerism"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Lactic acid shows optical isomerism due to the presence of a chiral carbon atom.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the common name of calcium oxide?",
+      "options": [
+        "Lime water",
+        "Quick lime",
+        "Slaked lime",
+        "Lime stone"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Calcium oxide (CaO) is commonly known as quick lime or burnt lime.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which method is used to separate two miscible liquids?",
+      "options": [
+        "Filtration",
+        "Decantation",
+        "Distillation",
+        "Sublimation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Distillation is used to separate two miscible liquids based on their different boiling points.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the bond angle in water molecule?",
+      "options": [
+        "109.5°",
+        "120°",
+        "104.5°",
+        "180°"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The bond angle in water is 104.5° due to the repulsion by lone pairs on oxygen.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which compound is known as laughing gas?",
+      "options": [
+        "NO",
+        "N₂O",
+        "NO₂",
+        "N₂O₄"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Nitrous oxide (N₂O) is commonly known as laughing gas and is used as an anesthetic.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the process of converting coal into coke called?",
+      "options": [
+        "Combustion",
+        "Destructive distillation",
+        "Fractional distillation",
+        "Calcination"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Destructive distillation is the process of heating coal in the absence of air to produce coke.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which indicator changes from colorless to pink in basic solution?",
+      "options": [
+        "Litmus",
+        "Methyl orange",
+        "Phenolphthalein",
+        "Universal indicator"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Phenolphthalein is colorless in acidic and neutral solutions but turns pink in basic solutions.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the molecular formula of glucose?",
+      "options": [
+        "C₆H₁₂O₆",
+        "C₆H₁₀O₅",
+        "C₁₂H₂₂O₁₁",
+        "C₅H₁₀O₅"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Glucose has the molecular formula C₆H₁₂O₆, a simple sugar and important energy source.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which metal is extracted by electrolysis of its molten chloride?",
+      "options": [
+        "Iron",
+        "Copper",
+        "Sodium",
+        "Zinc"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sodium is extracted by electrolysis of molten sodium chloride (Down's process).",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the empirical formula of benzene?",
+      "options": [
+        "C₆H₆",
+        "CH",
+        "C₂H₂",
+        "C₃H₃"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The empirical formula of benzene (C₆H₆) is CH, representing the simplest ratio of atoms.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which law relates the rate of effusion to molecular mass?",
+      "options": [
+        "Boyle's law",
+        "Charles's law",
+        "Graham's law",
+        "Dalton's law"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Graham's law states that the rate of effusion is inversely proportional to the square root of molecular mass.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the oxidation state of chromium in K₂Cr₂O₇?",
+      "options": [
+        "+3",
+        "+6",
+        "+7",
+        "+2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In potassium dichromate (K₂Cr₂O₇), chromium has an oxidation state of +6.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which reaction is used to test for the presence of CO₂ gas?",
+      "options": [
+        "Reaction with lime water",
+        "Reaction with litmus paper",
+        "Reaction with phenolphthalein",
+        "Reaction with methyl orange"
+      ],
+      "correctAnswer": 0,
+      "explanation": "CO₂ turns lime water milky due to formation of calcium carbonate: Ca(OH)₂ + CO₂ → CaCO₃ + H₂O.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the geometry of SF₆ molecule?",
+      "options": [
+        "Tetrahedral",
+        "Octahedral",
+        "Square planar",
+        "Trigonal bipyramidal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "SF₆ has octahedral geometry with six fluorine atoms arranged around the central sulfur atom.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which compound is used as a drying agent?",
+      "options": [
+        "CaCl₂",
+        "NaCl",
+        "KCl",
+        "MgCl₂"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Calcium chloride (CaCl₂) is hygroscopic and commonly used as a drying agent.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the product when ethene reacts with hydrogen?",
+      "options": [
+        "Ethane",
+        "Ethanol",
+        "Ethanoic acid",
+        "Ethanal"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Ethene (C₂H₄) reacts with hydrogen to form ethane (C₂H₆) in a hydrogenation reaction.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which element shows maximum catenation property?",
+      "options": [
+        "Silicon",
+        "Carbon",
+        "Germanium",
+        "Tin"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carbon shows maximum catenation (ability to form chains) due to its small size and strong C-C bonds.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the concentration of a solution containing 5g of salt in 100g of water?",
+      "options": [
+        "5%",
+        "4.76%",
+        "20%",
+        "50%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Concentration = (5g salt / 105g solution) × 100% = 4.76% by mass.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which gas is evolved when sodium hydrogen carbonate is heated?",
+      "options": [
+        "Hydrogen",
+        "Oxygen",
+        "Carbon dioxide",
+        "Water vapor"
+      ],
+      "correctAnswer": 2,
+      "explanation": "2NaHCO₃ → Na₂CO₃ + H₂O + CO₂. Carbon dioxide is evolved when sodium hydrogen carbonate is heated.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the IUPAC name of CH₃COOH?",
+      "options": [
+        "Methanoic acid",
+        "Ethanoic acid",
+        "Propanoic acid",
+        "Acetic acid"
+      ],
+      "correctAnswer": 1,
+      "explanation": "CH₃COOH has the IUPAC name ethanoic acid (commonly known as acetic acid).",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which type of bonding is present in diamond?",
+      "options": [
+        "Ionic bonding",
+        "Metallic bonding",
+        "Covalent bonding",
+        "Van der Waals forces"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Diamond has a network of covalent bonds, with each carbon atom bonded to four others in a tetrahedral arrangement.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the common name of sodium hydrogen carbonate?",
+      "options": [
+        "Washing soda",
+        "Baking soda",
+        "Caustic soda",
+        "Soda ash"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sodium hydrogen carbonate (NaHCO₃) is commonly known as baking soda.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which principle is used in fractional distillation?",
+      "options": [
+        "Different solubilities",
+        "Different boiling points",
+        "Different densities",
+        "Different melting points"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Fractional distillation separates components based on their different boiling points.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the formula of plaster of Paris?",
+      "options": [
+        "CaSO₄·2H₂O",
+        "CaSO₄·½H₂O",
+        "CaSO₄",
+        "Ca(OH)₂"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Plaster of Paris has the formula CaSO₄·½H₂O (calcium sulfate hemihydrate).",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which metal is present in chlorophyll?",
+      "options": [
+        "Iron",
+        "Magnesium",
+        "Copper",
+        "Zinc"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Chlorophyll contains magnesium at its center, which is essential for photosynthesis.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What happens to the atomic radius as we move down a group?",
+      "options": [
+        "Increases",
+        "Decreases",
+        "Remains same",
+        "First increases then decreases"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Atomic radius increases down a group due to addition of new electron shells.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which compound is formed when ammonia reacts with hydrogen chloride?",
+      "options": [
+        "Ammonium hydroxide",
+        "Ammonium chloride",
+        "Nitrogen chloride",
+        "Hydrazine"
+      ],
+      "correctAnswer": 1,
+      "explanation": "NH₃ + HCl → NH₄Cl. Ammonium chloride is formed when ammonia reacts with hydrogen chloride.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the hybridization of boron in BF₃?",
+      "options": [
+        "sp",
+        "sp²",
+        "sp³",
+        "sp³d"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Boron in BF₃ undergoes sp² hybridization, forming three bonds in a trigonal planar geometry.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which acid is used in car batteries?",
+      "options": [
+        "Hydrochloric acid",
+        "Nitric acid",
+        "Sulfuric acid",
+        "Phosphoric acid"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sulfuric acid (H₂SO₄) is used as the electrolyte in lead-acid car batteries.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the molecular formula of ozone?",
+      "options": [
+        "O",
+        "O₂",
+        "O₃",
+        "O₄"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ozone has the molecular formula O₃, consisting of three oxygen atoms.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which element has the symbol Au?",
+      "options": [
+        "Silver",
+        "Gold",
+        "Aluminum",
+        "Argon"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Au is the chemical symbol for gold, derived from the Latin word 'aurum'.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the process of coating iron with zinc called?",
+      "options": [
+        "Galvanizing",
+        "Anodizing",
+        "Electroplating",
+        "Tempering"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Galvanizing is the process of coating iron or steel with zinc to prevent rusting.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which law states that the pressure of a gas is inversely proportional to its volume?",
+      "options": [
+        "Charles's law",
+        "Boyle's law",
+        "Gay-Lussac's law",
+        "Avogadro's law"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Boyle's law states that at constant temperature, pressure is inversely proportional to volume (P ∝ 1/V).",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the product of complete combustion of methane?",
+      "options": [
+        "CO + H₂O",
+        "CO₂ + H₂O",
+        "C + H₂O",
+        "CO₂ + H₂"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Complete combustion of methane produces carbon dioxide and water: CH₄ + 2O₂ → CO₂ + 2H₂O.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which compound turns red litmus blue?",
+      "options": [
+        "HCl",
+        "H₂SO₄",
+        "NaOH",
+        "CH₃COOH"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sodium hydroxide (NaOH) is a base that turns red litmus paper blue.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the valency of aluminum?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Aluminum has a valency of 3, as it tends to lose three electrons to form Al³⁺ ions.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which gas is used in photosynthesis?",
+      "options": [
+        "Oxygen",
+        "Nitrogen",
+        "Carbon dioxide",
+        "Hydrogen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Plants use carbon dioxide from the atmosphere during photosynthesis to produce glucose.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the maximum number of electrons in L shell?",
+      "options": [
+        "2",
+        "8",
+        "18",
+        "32"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The L shell (second shell) can hold a maximum of 8 electrons (2n² = 2×2² = 8).",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "options": [
+        "Gallium",
+        "Mercury",
+        "Cesium",
+        "Francium"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mercury is the only metal that is liquid at room temperature (melting point -39°C).",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the name of the process where a solid directly converts to gas?",
+      "options": [
+        "Evaporation",
+        "Sublimation",
+        "Condensation",
+        "Fusion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Sublimation is the process where a solid directly converts to gas without melting.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which compound is known as blue vitriol?",
+      "options": [
+        "CuSO₄·5H₂O",
+        "FeSO₄·7H₂O",
+        "ZnSO₄·7H₂O",
+        "MgSO₄·7H₂O"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Copper sulfate pentahydrate (CuSO₄·5H₂O) is commonly known as blue vitriol.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the bond order of nitrogen molecule (N₂)?",
+      "options": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ],
+      "correctAnswer": 2,
+      "explanation": "N₂ has a triple bond (N≡N) with bond order 3, making it very stable.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which compound is used to remove temporary hardness of water?",
+      "options": [
+        "Ca(OH)₂",
+        "Na₂CO₃",
+        "CaO",
+        "All of the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "All these compounds can remove temporary hardness by precipitating calcium and magnesium bicarbonates.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the coordination number of central metal ion in [Cu(NH₃)₄]²⁺?",
+      "options": [
+        "2",
+        "4",
+        "6",
+        "8"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In [Cu(NH₃)₄]²⁺, copper has coordination number 4 as it is bonded to four ammonia ligands.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which type of reaction is CaO + H₂O → Ca(OH)₂?",
+      "options": [
+        "Combination",
+        "Decomposition",
+        "Displacement",
+        "Double displacement"
+      ],
+      "correctAnswer": 0,
+      "explanation": "This is a combination reaction where two reactants combine to form a single product.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the percentage of nitrogen in urea (NH₂CONH₂)?",
+      "options": [
+        "28%",
+        "46.7%",
+        "35%",
+        "50%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Urea contains 46.7% nitrogen by mass, making it a nitrogen-rich fertilizer.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which element shows variable valency?",
+      "options": [
+        "Sodium",
+        "Calcium",
+        "Iron",
+        "Aluminum"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Iron shows variable valency, commonly +2 (ferrous) and +3 (ferric) oxidation states.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the shape of methane molecule?",
+      "options": [
+        "Linear",
+        "Trigonal planar",
+        "Tetrahedral",
+        "Octahedral"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Methane (CH₄) has a tetrahedral shape with bond angles of 109.5°.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which compound is used as an antiseptic?",
+      "options": [
+        "Ethanol",
+        "Iodine",
+        "Hydrogen peroxide",
+        "All of the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "All these compounds have antiseptic properties and are used to kill microorganisms.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the oxidation number of hydrogen in metal hydrides?",
+      "options": [
+        "+1",
+        "-1",
+        "0",
+        "+2"
+      ],
+      "correctAnswer": 1,
+      "explanation": "In metal hydrides like NaH, hydrogen has oxidation number -1.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which gas is produced during fermentation?",
+      "options": [
+        "Oxygen",
+        "Hydrogen",
+        "Carbon dioxide",
+        "Nitrogen"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Carbon dioxide is produced during alcoholic fermentation: C₆H₁₂O₆ → 2C₂H₅OH + 2CO₂.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the molar mass of water (H₂O)?",
+      "options": [
+        "16 g/mol",
+        "18 g/mol",
+        "20 g/mol",
+        "22 g/mol"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Molar mass of H₂O = 2(1) + 16 = 18 g/mol.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which compound is formed when carbon dioxide is passed through lime water for a long time?",
+      "options": [
+        "CaCO₃",
+        "Ca(HCO₃)₂",
+        "CaO",
+        "Ca(OH)₂"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Excess CO₂ converts the precipitate back to soluble calcium bicarbonate: CaCO₃ + H₂O + CO₂ → Ca(HCO₃)₂.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the electronic configuration of chloride ion (Cl⁻)?",
+      "options": [
+        "1s² 2s² 2p⁶ 3s² 3p⁵",
+        "1s² 2s² 2p⁶ 3s² 3p⁶",
+        "1s² 2s² 2p⁶ 3s² 3p⁴",
+        "1s² 2s² 2p⁶ 3s¹ 3p⁶"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Cl⁻ has gained one electron, so its configuration is 1s² 2s² 2p⁶ 3s² 3p⁶ (same as argon).",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which compound is used in photography?",
+      "options": [
+        "AgBr",
+        "AgCl",
+        "AgI",
+        "All of the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Silver halides (AgBr, AgCl, AgI) are light-sensitive and used in photographic films.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the minimum energy required to remove an electron from an atom called?",
+      "options": [
+        "Electron affinity",
+        "Ionization energy",
+        "Electronegativity",
+        "Work function"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ionization energy is the minimum energy required to remove an electron from a gaseous atom.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "Which allotrope of carbon is used as a lubricant?",
+      "options": [
+        "Diamond",
+        "Graphite",
+        "Fullerene",
+        "Carbon fiber"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Graphite has a layered structure with weak forces between layers, making it an excellent lubricant.",
+      "category": "Chemistry"
+    },
+    {
+      "question": "What is the product when calcium carbonate is heated strongly?",
+      "options": [
+        "CaO + CO₂",
+        "Ca + CO₃",
+        "Ca(OH)₂ + CO₂",
+        "CaH₂ + CO₂"
+      ],
+      "correctAnswer": 0,
+      "explanation": "CaCO₃ → CaO + CO₂. Strong heating decomposes calcium carbonate into calcium oxide and carbon dioxide.",
+      "category": "Chemistry"
+    }
+  ],
+  "Mock Tests": [
+    {
+      "question": "How many mock tests should be taken before NEET exam?",
+      "options": [
+        "10-15 tests",
+        "50-100 tests",
+        "5-10 tests",
+        "200+ tests"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Taking 50-100 mock tests helps build speed, accuracy, and exam temperament for NEET success.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the ideal time to start taking NEET mock tests?",
+      "options": [
+        "After completing syllabus",
+        "From the beginning of preparation",
+        "6 months before exam",
+        "1 month before exam"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Starting mock tests 6 months before NEET allows sufficient time for improvement and concept reinforcement.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How should one analyze mock test results for NEET improvement?",
+      "options": [
+        "Only check the score",
+        "Detailed analysis of each question",
+        "Just review wrong answers",
+        "Compare with others only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Detailed analysis of each question helps identify weak areas and improve problem-solving strategies for NEET.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the recommended frequency of taking NEET mock tests?",
+      "options": [
+        "Daily",
+        "2-3 times per week",
+        "Once a week",
+        "Once a month"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Taking 2-3 mock tests per week provides adequate practice without causing burnout during NEET preparation.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one take subject-wise or full-length mock tests for NEET?",
+      "options": [
+        "Only subject-wise",
+        "Only full-length",
+        "Both types are beneficial",
+        "Neither is useful"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Both subject-wise and full-length mock tests serve different purposes in comprehensive NEET preparation.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the ideal score target in NEET mock tests?",
+      "options": [
+        "50% marks",
+        "60-65% marks",
+        "70-75% marks",
+        "90% marks"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Consistently scoring 70-75% in mock tests indicates good preparation level for NEET success.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to handle negative marking while taking NEET mock tests?",
+      "options": [
+        "Attempt all questions",
+        "Skip doubtful questions",
+        "Guess randomly",
+        "Leave many questions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Skipping doubtful questions in mock tests helps develop strategy to minimize negative marking in NEET.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What should be the time allocation per question in NEET mock tests?",
+      "options": [
+        "1 minute per question",
+        "2 minutes per question",
+        "3 minutes per question",
+        "No time limit"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Allocating approximately 1 minute per question helps complete the entire NEET paper within time limit.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one retake the same mock test for NEET practice?",
+      "options": [
+        "Never retake",
+        "Retake immediately",
+        "Retake after gap for revision",
+        "Retake multiple times"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Retaking mock tests after a gap helps assess retention and improvement in NEET preparation.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the best time of day to take NEET mock tests?",
+      "options": [
+        "Early morning",
+        "Same as actual exam time",
+        "Late evening",
+        "Any convenient time"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Taking mock tests at the same time as actual NEET exam helps body adapt to the exam schedule.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to maintain concentration during long NEET mock tests?",
+      "options": [
+        "Take frequent breaks",
+        "Practice meditation",
+        "Drink energy drinks",
+        "Listen to music"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Regular meditation practice helps improve concentration and focus during long NEET mock test sessions.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one discuss mock test questions with peers?",
+      "options": [
+        "Never discuss",
+        "Discuss all questions",
+        "Discuss only difficult ones",
+        "Only after individual analysis"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Discussing mock test questions after individual analysis helps gain different perspectives and learning approaches.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the importance of mock test ranking for NEET preparation?",
+      "options": [
+        "Very important",
+        "Moderately important",
+        "Not important",
+        "Only for motivation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Mock test ranking provides moderate indication of preparation level but shouldn't be the only focus.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to handle exam anxiety during NEET mock tests?",
+      "options": [
+        "Avoid mock tests",
+        "Practice relaxation techniques",
+        "Take medication",
+        "Rush through questions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Practicing relaxation techniques during mock tests helps manage anxiety and improves performance in actual NEET.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one attempt mock tests on computer or paper for NEET?",
+      "options": [
+        "Only computer",
+        "Only paper",
+        "Both formats",
+        "Format doesn't matter"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Since NEET is computer-based, practicing on computer format helps familiarize with the actual exam interface.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the role of mock test analytics in NEET preparation?",
+      "options": [
+        "Not useful",
+        "Only for weak students",
+        "Essential for improvement",
+        "Only for teachers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mock test analytics provide essential insights into performance patterns and areas needing improvement for NEET.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to improve speed in NEET mock tests?",
+      "options": [
+        "Skip difficult questions",
+        "Regular practice and shortcuts",
+        "Guess answers quickly",
+        "Reduce accuracy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Regular practice combined with learning shortcuts and techniques helps improve speed without compromising accuracy.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one take mock tests from multiple sources for NEET?",
+      "options": [
+        "Stick to one source",
+        "Use multiple sources",
+        "Only official sources",
+        "Avoid all mock tests"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Using multiple sources for mock tests provides exposure to different question patterns and difficulty levels.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the ideal difficulty level for NEET mock tests?",
+      "options": [
+        "Very easy",
+        "Slightly easier than NEET",
+        "Same as NEET level",
+        "Much harder than NEET"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mock tests at the same difficulty level as NEET provide realistic practice and accurate assessment.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to track improvement through NEET mock tests?",
+      "options": [
+        "Only track scores",
+        "Maintain detailed performance log",
+        "Compare with friends",
+        "Don't track anything"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Maintaining a detailed performance log helps track improvement patterns and identify consistent weak areas.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one take mock tests during NEET revision phase?",
+      "options": [
+        "Stop all mock tests",
+        "Reduce frequency",
+        "Increase frequency",
+        "Take only subject-wise tests"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reducing mock test frequency during revision allows more time for concept strengthening while maintaining exam readiness.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the best strategy for attempting NEET mock tests?",
+      "options": [
+        "Start with Biology",
+        "Start with easiest subject",
+        "Follow personal strength order",
+        "Attempt randomly"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Following personal strength order in mock tests helps build confidence and optimize time management for NEET.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to handle technical issues during online NEET mock tests?",
+      "options": [
+        "Panic and restart",
+        "Stay calm and report",
+        "Skip the test",
+        "Blame the system"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Staying calm and reporting technical issues helps resolve problems quickly and prepares for similar situations in actual NEET.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one review mock test solutions immediately after completion?",
+      "options": [
+        "Review immediately",
+        "Review after a day",
+        "Never review solutions",
+        "Only review wrong answers"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reviewing solutions after a day allows fresh perspective and better understanding of mistakes and concepts.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the importance of mock test environment for NEET preparation?",
+      "options": [
+        "Not important",
+        "Moderately important",
+        "Very important",
+        "Only for weak students"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Creating exam-like environment during mock tests helps adapt to actual NEET conditions and reduces exam day stress.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to maintain consistency in NEET mock test performance?",
+      "options": [
+        "Take tests irregularly",
+        "Regular practice and analysis",
+        "Only focus on strong subjects",
+        "Avoid difficult tests"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Regular practice combined with thorough analysis helps maintain and improve consistency in mock test performance.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one take adaptive mock tests for NEET preparation?",
+      "options": [
+        "Avoid adaptive tests",
+        "Only adaptive tests",
+        "Mix of adaptive and fixed tests",
+        "Adaptive tests are useless"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Combination of adaptive and fixed mock tests provides comprehensive practice for different question patterns in NEET.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the role of mock test feedback in NEET improvement?",
+      "options": [
+        "Ignore feedback",
+        "Only positive feedback matters",
+        "Use feedback for targeted improvement",
+        "Feedback is demotivating"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Using mock test feedback for targeted improvement helps address specific weaknesses and enhance NEET preparation.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to balance mock tests with regular NEET study?",
+      "options": [
+        "Only mock tests",
+        "Only regular study",
+        "70% study, 30% mock tests",
+        "50-50 distribution"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Allocating 70% time to regular study and 30% to mock tests ensures balanced preparation for NEET success.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one take sectional mock tests for NEET?",
+      "options": [
+        "Never take sectional tests",
+        "Only sectional tests",
+        "Yes, for focused practice",
+        "Sectional tests are waste"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sectional mock tests provide focused practice for specific subjects and help identify subject-wise strengths and weaknesses.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the ideal break time during NEET mock tests?",
+      "options": [
+        "No breaks allowed",
+        "5-10 minutes maximum",
+        "30 minutes break",
+        "Multiple long breaks"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Since actual NEET doesn't allow breaks, mock tests should also be taken without breaks to simulate real conditions.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to handle fluctuating scores in NEET mock tests?",
+      "options": [
+        "Get demotivated",
+        "Analyze patterns and improve",
+        "Stop taking tests",
+        "Ignore the fluctuations"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Analyzing score fluctuation patterns helps identify inconsistent areas and develop strategies for stable performance.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one take mock tests from coaching institutes for NEET?",
+      "options": [
+        "Avoid coaching tests",
+        "Only coaching tests",
+        "Include coaching tests in practice",
+        "Coaching tests are biased"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Including coaching institute mock tests provides additional practice and exposure to different question styles for NEET.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the importance of time management in NEET mock tests?",
+      "options": [
+        "Not important",
+        "Moderately important",
+        "Extremely important",
+        "Only for slow students"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Time management is extremely important in NEET mock tests as it directly impacts the ability to attempt all questions.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to use mock test results for NEET strategy planning?",
+      "options": [
+        "Don't use for planning",
+        "Plan based on scores only",
+        "Comprehensive analysis for strategy",
+        "Copy others' strategies"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Comprehensive analysis of mock test results helps develop personalized strategies for optimal NEET performance.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one take mock tests during NEET exam week?",
+      "options": [
+        "Take daily mock tests",
+        "Avoid all mock tests",
+        "Light practice tests only",
+        "Only revision, no tests"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Light practice tests during exam week help maintain exam readiness without causing stress or fatigue.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the role of peer comparison in NEET mock tests?",
+      "options": [
+        "Always compare with peers",
+        "Never compare with anyone",
+        "Limited comparison for motivation",
+        "Comparison causes depression"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Limited peer comparison can provide motivation and perspective, but shouldn't be the primary focus of preparation.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to maintain motivation during poor NEET mock test performance?",
+      "options": [
+        "Give up preparation",
+        "Focus on improvement areas",
+        "Blame the test quality",
+        "Compare with others"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Focusing on specific improvement areas rather than overall scores helps maintain motivation and progress in preparation.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one take mock tests from previous years for NEET practice?",
+      "options": [
+        "Only current year tests",
+        "Only previous year tests",
+        "Mix of both types",
+        "Previous year tests are outdated"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mixing current and previous year mock tests provides comprehensive practice and exposure to evolving question patterns.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the ideal mock test duration for NEET preparation?",
+      "options": [
+        "2 hours",
+        "3 hours",
+        "3 hours 20 minutes",
+        "4 hours"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Mock tests should match the actual NEET duration of 3 hours 20 minutes to simulate real exam conditions.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to handle calculator absence in NEET mock tests?",
+      "options": [
+        "Use calculator anyway",
+        "Skip numerical problems",
+        "Practice mental calculations",
+        "Guess numerical answers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Practicing mental calculations during mock tests prepares for NEET where calculators are not allowed.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one maintain mock test error journal for NEET?",
+      "options": [
+        "Not necessary",
+        "Only for difficult subjects",
+        "Yes, for all subjects",
+        "Only for repeated mistakes"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Maintaining error journal for all subjects helps track mistakes and prevents repetition in actual NEET exam.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the best approach to guess answers in NEET mock tests?",
+      "options": [
+        "Random guessing",
+        "Educated guessing with elimination",
+        "Never guess any answer",
+        "Always choose option C"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Educated guessing using elimination technique maximizes chances of correct answers while minimizing negative marking.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to simulate actual NEET conditions during mock tests?",
+      "options": [
+        "Take tests casually",
+        "Create exam-like environment",
+        "Take tests with friends",
+        "Use all available resources"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Creating exam-like environment with proper seating, timing, and restrictions helps adapt to actual NEET conditions.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one take mock tests on empty stomach for NEET practice?",
+      "options": [
+        "Always empty stomach",
+        "Always after heavy meal",
+        "Light meal before test",
+        "Meal timing doesn't matter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Taking mock tests after light meal simulates optimal NEET day condition without causing discomfort or drowsiness.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the importance of mock test question quality for NEET?",
+      "options": [
+        "Quality doesn't matter",
+        "Only quantity matters",
+        "High quality is essential",
+        "Any questions will do"
+      ],
+      "correctAnswer": 2,
+      "explanation": "High-quality mock test questions that match NEET standards provide realistic practice and accurate assessment.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to handle distractions during NEET mock tests?",
+      "options": [
+        "Ignore all distractions",
+        "Stop test if distracted",
+        "Practice focus techniques",
+        "Take test in noisy environment"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Practicing focus techniques during mock tests helps maintain concentration despite distractions in actual NEET exam.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one take mock tests with friends for NEET preparation?",
+      "options": [
+        "Always take with friends",
+        "Never take with friends",
+        "Occasionally for motivation",
+        "Friends cause distraction"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Occasionally taking mock tests with friends can provide motivation and healthy competition while maintaining individual focus.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the role of mock test difficulty progression in NEET preparation?",
+      "options": [
+        "Start with hardest tests",
+        "Only easy tests throughout",
+        "Gradual difficulty increase",
+        "Random difficulty levels"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gradual increase in mock test difficulty helps build confidence and skills progressively for NEET success.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to maintain physical stamina during long NEET mock tests?",
+      "options": [
+        "Take energy drinks",
+        "Regular exercise and healthy diet",
+        "Sleep during test",
+        "Take frequent breaks"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Regular exercise and healthy diet help maintain physical stamina required for long duration NEET mock tests.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one take mock tests during illness for NEET practice?",
+      "options": [
+        "Always take tests",
+        "Never take when ill",
+        "Light practice if possible",
+        "Illness doesn't matter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Avoiding mock tests during illness prevents poor performance records and allows proper recovery for effective preparation.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the importance of mock test variety for NEET preparation?",
+      "options": [
+        "Stick to one type",
+        "Variety is essential",
+        "Only standard format",
+        "Variety causes confusion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Variety in mock test formats and sources provides comprehensive preparation for different question styles in NEET.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to use mock test percentile for NEET preparation assessment?",
+      "options": [
+        "Ignore percentile completely",
+        "Only focus on percentile",
+        "Use as one indicator among many",
+        "Percentile is meaningless"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Using percentile as one indicator among many provides balanced assessment without overemphasizing single metrics.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one take mock tests in regional language for NEET?",
+      "options": [
+        "Only English tests",
+        "Only regional language",
+        "Practice in exam language",
+        "Language doesn't matter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Practicing mock tests in the same language planned for actual NEET helps avoid confusion and saves time.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the best way to conclude mock test analysis for NEET?",
+      "options": [
+        "Just check score",
+        "Create improvement action plan",
+        "Compare with others",
+        "Forget and move on"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Creating specific improvement action plan after mock test analysis ensures targeted preparation for identified weak areas.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to handle mock test addiction during NEET preparation?",
+      "options": [
+        "Take more tests",
+        "Balance with concept study",
+        "Stop all tests",
+        "Addiction is good"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Balancing mock tests with concept study ensures comprehensive preparation without neglecting fundamental understanding.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one take mock tests from international sources for NEET?",
+      "options": [
+        "Only international tests",
+        "Avoid international tests",
+        "Occasionally for exposure",
+        "International tests are irrelevant"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Focusing on India-specific mock tests is more relevant as international tests may not match NEET syllabus and pattern.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the role of mock test timing strategy in NEET success?",
+      "options": [
+        "Timing doesn't matter",
+        "Speed is everything",
+        "Strategic time allocation",
+        "Take unlimited time"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Strategic time allocation across subjects and questions is crucial for maximizing scores in time-bound NEET exam.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to maintain mock test momentum throughout NEET preparation?",
+      "options": [
+        "Take tests irregularly",
+        "Consistent schedule with breaks",
+        "Intensive test periods only",
+        "Stop tests before exam"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Maintaining consistent mock test schedule with appropriate breaks helps sustain momentum and continuous improvement.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one take mock tests immediately after learning new topics?",
+      "options": [
+        "Immediately test new topics",
+        "Wait for topic completion",
+        "Test after some practice",
+        "Never test new topics"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Testing new topics after some practice allows better performance and more meaningful assessment of understanding.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the ultimate goal of taking NEET mock tests?",
+      "options": [
+        "Getting high scores",
+        "Beating other students",
+        "Exam readiness and improvement",
+        "Completing test quota"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The ultimate goal of mock tests is achieving exam readiness and continuous improvement rather than just high scores.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to integrate mock test learning with regular NEET study?",
+      "options": [
+        "Keep them separate",
+        "Only focus on mock tests",
+        "Use test insights for study planning",
+        "Ignore test results"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Using mock test insights for study planning creates integrated preparation approach and maximizes learning efficiency.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one take mock tests during NEET application period?",
+      "options": [
+        "Stop all preparation",
+        "Continue regular schedule",
+        "Reduce test frequency",
+        "Increase test frequency"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Continuing regular mock test schedule during application period maintains preparation momentum and exam readiness.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the best mindset for approaching NEET mock tests?",
+      "options": [
+        "Casual approach",
+        "Extreme pressure",
+        "Learning and improvement focus",
+        "Competition with others"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Approaching mock tests with learning and improvement focus creates positive preparation environment and sustainable progress.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "How to ensure mock test authenticity for NEET preparation?",
+      "options": [
+        "Use any available tests",
+        "Only free tests",
+        "Choose reputed sources",
+        "Create own tests"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Choosing mock tests from reputed sources ensures authenticity, quality, and relevance to actual NEET exam standards.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "Should one maintain mock test performance graph for NEET?",
+      "options": [
+        "Not necessary",
+        "Only mental tracking",
+        "Yes, visual progress tracking",
+        "Only track final scores"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Maintaining visual progress graph helps track improvement trends and motivates continued effort in NEET preparation.",
+      "category": "Mock Tests"
+    },
+    {
+      "question": "What is the final advice for NEET mock test strategy?",
+      "options": [
+        "Take as many as possible",
+        "Quality over quantity",
+        "Avoid all mock tests",
+        "Only take easy tests"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Focusing on quality over quantity in mock tests ensures meaningful practice and effective preparation for NEET success.",
+      "category": "Mock Tests"
+    }
+  ],
+  "NCERT Books": [
+    {
+      "question": "Which NCERT class books are most important for NEET Biology preparation?",
+      "options": [
+        "Class 9 and 10 only",
+        "Class 11 and 12 only",
+        "Class 10, 11 and 12",
+        "All classes from 6-12"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Class 11 and 12 NCERT Biology books are most important for NEET as they cover the syllabus comprehensively.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How many times should one read NCERT books for NEET preparation?",
+      "options": [
+        "Once is enough",
+        "2-3 times minimum",
+        "5-7 times for mastery",
+        "Once per subject"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Reading NCERT books 5-7 times ensures complete understanding and retention of concepts for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Which NCERT Chemistry book chapters are most important for NEET?",
+      "options": [
+        "Only organic chemistry",
+        "Only inorganic chemistry",
+        "All chapters equally",
+        "Physical chemistry only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "All NCERT Chemistry chapters are equally important as NEET covers the entire syllabus comprehensively.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the best way to study NCERT Biology diagrams for NEET?",
+      "options": [
+        "Just read the labels",
+        "Draw and redraw multiple times",
+        "Only memorize names",
+        "Skip diagrams completely"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Drawing and redrawing NCERT diagrams multiple times helps in better understanding and retention for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should NCERT exemplar books be studied for NEET preparation?",
+      "options": [
+        "Not necessary",
+        "Only for Physics",
+        "Yes, for all subjects",
+        "Only for Chemistry"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NCERT Exemplar books provide additional practice questions and deeper understanding for all NEET subjects.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What percentage of NEET questions come directly from NCERT?",
+      "options": [
+        "30-40%",
+        "50-60%",
+        "70-80%",
+        "90-95%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Approximately 70-80% of NEET questions are directly based on NCERT concepts and content.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Which NCERT Physics topics require maximum attention for NEET?",
+      "options": [
+        "Only mechanics",
+        "Only electricity",
+        "All topics equally",
+        "Only optics"
+      ],
+      "correctAnswer": 2,
+      "explanation": "All NCERT Physics topics require equal attention as NEET tests comprehensive understanding of the syllabus.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How should one approach NCERT intext questions for NEET?",
+      "options": [
+        "Skip them completely",
+        "Solve after chapter completion",
+        "Solve while reading",
+        "Only read solutions"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Solving NCERT intext questions while reading helps in immediate concept clarification and better understanding.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the importance of NCERT exercise questions for NEET?",
+      "options": [
+        "Not important",
+        "Moderately important",
+        "Very important",
+        "Only for practice"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NCERT exercise questions are very important as they often appear directly or in modified form in NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one make notes while reading NCERT books?",
+      "options": [
+        "Never make notes",
+        "Only for difficult topics",
+        "Yes, comprehensive notes",
+        "Only formulas and reactions"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Making comprehensive notes while reading NCERT helps in quick revision and better retention for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Which NCERT Biology chapters have maximum weightage in NEET?",
+      "options": [
+        "Human physiology and plant physiology",
+        "Only genetics",
+        "Only ecology",
+        "Only cell biology"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Human physiology and plant physiology chapters have maximum weightage in NEET Biology section.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to effectively memorize NCERT Chemistry reactions?",
+      "options": [
+        "Rote learning only",
+        "Understand mechanism first",
+        "Skip reactions",
+        "Only read once"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Understanding the mechanism of reactions first makes memorization easier and more effective for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the best time allocation for NCERT books in daily study?",
+      "options": [
+        "1 hour per day",
+        "2-3 hours per day",
+        "4-5 hours per day",
+        "30 minutes per day"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Allocating 4-5 hours daily for NCERT books ensures thorough understanding and adequate practice for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one solve previous year NEET questions after each NCERT chapter?",
+      "options": [
+        "Not necessary",
+        "Only at the end",
+        "Yes, after each chapter",
+        "Only for difficult chapters"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Solving previous year questions after each NCERT chapter helps in understanding exam pattern and question types.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Which edition of NCERT books is recommended for NEET 2024?",
+      "options": [
+        "Any old edition",
+        "Latest edition only",
+        "2019 edition",
+        "Edition doesn't matter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Latest edition of NCERT books is recommended as it contains updated content and corrections for NEET preparation.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to handle difficult concepts in NCERT books?",
+      "options": [
+        "Skip them",
+        "Read multiple times and seek help",
+        "Memorize without understanding",
+        "Only read summary"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Reading difficult concepts multiple times and seeking help from teachers or peers ensures better understanding for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the role of NCERT books in NEET Biology preparation?",
+      "options": [
+        "Supplementary material",
+        "Primary foundation",
+        "Optional reading",
+        "Only for reference"
+      ],
+      "correctAnswer": 1,
+      "explanation": "NCERT books serve as the primary foundation for NEET Biology preparation, covering all essential concepts.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one highlight important points in NCERT books?",
+      "options": [
+        "Never highlight",
+        "Highlight everything",
+        "Highlight selectively",
+        "Only highlight formulas"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Selective highlighting of important points, facts, and concepts helps in quick revision and better focus.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to approach NCERT Chemistry numerical problems?",
+      "options": [
+        "Skip all numericals",
+        "Only read solutions",
+        "Practice step by step",
+        "Memorize answers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Practicing NCERT Chemistry numericals step by step builds problem-solving skills essential for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the importance of NCERT appendices for NEET?",
+      "options": [
+        "Not important",
+        "Moderately important",
+        "Very important for reference",
+        "Only for additional reading"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NCERT appendices contain important reference material, formulas, and data tables crucial for NEET preparation.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How many hours should be dedicated to NCERT revision before NEET?",
+      "options": [
+        "10-15 hours total",
+        "50-60 hours total",
+        "100-150 hours total",
+        "200+ hours total"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Dedicating 100-150 hours for comprehensive NCERT revision ensures thorough preparation for NEET exam.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one study NCERT books subject-wise or topic-wise?",
+      "options": [
+        "Only subject-wise",
+        "Only topic-wise",
+        "Both approaches work",
+        "Random order"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Both subject-wise and topic-wise approaches work; choose based on personal preference and understanding.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the best way to retain NCERT information for NEET?",
+      "options": [
+        "Single reading",
+        "Multiple readings with active recall",
+        "Only highlighting",
+        "Audio listening"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multiple readings combined with active recall techniques ensure better retention of NCERT content for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to correlate NCERT concepts with NEET question patterns?",
+      "options": [
+        "Don't correlate",
+        "Practice previous year papers",
+        "Only read theory",
+        "Memorize questions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Practicing previous year NEET papers helps correlate NCERT concepts with actual exam question patterns.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one study NCERT books in English or Hindi for NEET?",
+      "options": [
+        "Only English",
+        "Only Hindi",
+        "Language of comfort",
+        "Both languages"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Study NCERT books in the language you're most comfortable with to ensure better understanding and retention.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the role of NCERT summary boxes in NEET preparation?",
+      "options": [
+        "Not important",
+        "Skip them",
+        "Very important for quick revision",
+        "Only for weak students"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NCERT summary boxes are very important as they provide quick revision points and key concepts for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to effectively use NCERT glossary for NEET preparation?",
+      "options": [
+        "Ignore glossary",
+        "Read once only",
+        "Regular reference for terminology",
+        "Memorize all terms"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Using NCERT glossary as regular reference helps in understanding scientific terminology crucial for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one solve NCERT questions multiple times for NEET?",
+      "options": [
+        "Once is enough",
+        "Twice maximum",
+        "Multiple times until mastery",
+        "Never solve again"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Solving NCERT questions multiple times until complete mastery ensures thorough preparation for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the importance of NCERT case studies for NEET Biology?",
+      "options": [
+        "Not relevant",
+        "Moderately important",
+        "Very important for application",
+        "Only for general knowledge"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NCERT case studies are very important as they help in understanding practical applications of biological concepts.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to approach NCERT Chemistry equations for NEET?",
+      "options": [
+        "Just read them",
+        "Memorize without understanding",
+        "Understand and practice balancing",
+        "Skip chemical equations"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Understanding chemical equations and practicing balancing helps in solving NEET Chemistry problems effectively.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one create flashcards from NCERT content for NEET?",
+      "options": [
+        "Not necessary",
+        "Only for formulas",
+        "Yes, for important facts and concepts",
+        "Only for weak topics"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Creating flashcards from important NCERT facts and concepts aids in quick revision and memory retention.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the best sequence to study NCERT books for NEET?",
+      "options": [
+        "Physics, Chemistry, Biology",
+        "Biology, Chemistry, Physics",
+        "Based on personal strength",
+        "Random order"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Study sequence should be based on personal strength and comfort level to maintain motivation and understanding.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to handle NCERT Biology classification for NEET?",
+      "options": [
+        "Skip classification",
+        "Only read names",
+        "Understand hierarchy and characteristics",
+        "Memorize randomly"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Understanding taxonomic hierarchy and characteristics helps in solving NEET classification questions effectively.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one study NCERT books chapter-wise or unit-wise for NEET?",
+      "options": [
+        "Only chapter-wise",
+        "Only unit-wise",
+        "Both approaches are effective",
+        "Topic-wise only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Both chapter-wise and unit-wise approaches are effective; choose based on your learning style and preference.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the role of NCERT activities in NEET preparation?",
+      "options": [
+        "Not important",
+        "Only for practical knowledge",
+        "Help in concept understanding",
+        "Time waste"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NCERT activities help in better concept understanding and practical application of theoretical knowledge.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to effectively use NCERT index for NEET preparation?",
+      "options": [
+        "Ignore the index",
+        "Read once only",
+        "Use for quick topic location",
+        "Memorize the index"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Using NCERT index for quick topic location saves time during revision and reference for NEET preparation.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one annotate NCERT books while studying for NEET?",
+      "options": [
+        "Never annotate",
+        "Only highlight",
+        "Yes, with personal notes and insights",
+        "Only mark important lines"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Annotating NCERT books with personal notes and insights enhances understanding and aids in revision.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the importance of NCERT references for NEET?",
+      "options": [
+        "Not important",
+        "Only for additional reading",
+        "Important for deeper understanding",
+        "Only for research"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NCERT references provide deeper understanding and additional perspectives on important concepts for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to approach NCERT Physics derivations for NEET?",
+      "options": [
+        "Skip all derivations",
+        "Only read final formulas",
+        "Understand step-by-step process",
+        "Memorize without understanding"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Understanding step-by-step derivation process helps in solving complex NEET Physics problems effectively.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one create mind maps from NCERT content for NEET?",
+      "options": [
+        "Not necessary",
+        "Only for Biology",
+        "Yes, for all subjects",
+        "Only for difficult topics"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Creating mind maps from NCERT content for all subjects helps in visual learning and quick revision.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the best way to revise NCERT books before NEET exam?",
+      "options": [
+        "Read everything again",
+        "Only solve questions",
+        "Focus on notes and marked portions",
+        "Skip revision"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Focusing on personal notes and marked portions during revision is most effective for NEET preparation.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to handle NCERT Chemistry periodic table for NEET?",
+      "options": [
+        "Just memorize positions",
+        "Understand trends and properties",
+        "Skip periodic table",
+        "Only learn first 20 elements"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Understanding periodic trends and properties rather than just memorizing helps in solving NEET Chemistry questions.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one study NCERT books with or without coaching for NEET?",
+      "options": [
+        "Only with coaching",
+        "Only self-study",
+        "Both approaches work",
+        "Coaching is mandatory"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Both self-study and coaching approaches work for NCERT books; choose based on your learning needs and resources.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the role of NCERT worked examples in NEET preparation?",
+      "options": [
+        "Not important",
+        "Only for reference",
+        "Very important for problem-solving",
+        "Skip worked examples"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NCERT worked examples are very important as they demonstrate problem-solving techniques for NEET questions.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to effectively memorize NCERT Biology facts for NEET?",
+      "options": [
+        "Rote memorization only",
+        "Use mnemonics and associations",
+        "Don't memorize anything",
+        "Only understand concepts"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Using mnemonics and associations makes memorizing NCERT Biology facts more effective and long-lasting.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one solve NCERT questions before reading the chapter for NEET?",
+      "options": [
+        "Always solve first",
+        "Never solve first",
+        "Read chapter first, then solve",
+        "Doesn't matter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Reading the chapter first provides necessary background knowledge before attempting NCERT questions for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the importance of NCERT chapter summaries for NEET?",
+      "options": [
+        "Not important",
+        "Only for weak students",
+        "Excellent for quick revision",
+        "Skip summaries"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NCERT chapter summaries are excellent for quick revision and consolidating key concepts before NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to approach NCERT Chemistry organic reactions for NEET?",
+      "options": [
+        "Memorize all reactions",
+        "Understand mechanisms and patterns",
+        "Skip organic chemistry",
+        "Only learn name reactions"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Understanding reaction mechanisms and patterns helps in predicting products and solving NEET organic chemistry questions.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one create separate notebooks for NCERT notes for NEET?",
+      "options": [
+        "Not necessary",
+        "One notebook for all subjects",
+        "Separate notebooks for each subject",
+        "Digital notes only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Separate notebooks for each subject help in better organization and quick access during NEET revision.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the best time of day to study NCERT books for NEET?",
+      "options": [
+        "Only morning",
+        "Only evening",
+        "Based on personal peak hours",
+        "Only night"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Study NCERT books during your personal peak concentration hours for maximum effectiveness and retention.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to handle NCERT Physics graphs and diagrams for NEET?",
+      "options": [
+        "Just look at them",
+        "Understand and practice drawing",
+        "Skip all graphs",
+        "Only memorize labels"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Understanding and practicing drawing NCERT Physics graphs helps in solving graphical questions in NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one discuss NCERT concepts with peers for NEET preparation?",
+      "options": [
+        "Never discuss",
+        "Only with teachers",
+        "Yes, group discussions help",
+        "Only individual study"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Group discussions of NCERT concepts help in clarifying doubts and gaining different perspectives for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the role of NCERT book preface in NEET preparation?",
+      "options": [
+        "Skip the preface",
+        "Not important",
+        "Provides study approach guidance",
+        "Only for teachers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NCERT book preface provides valuable guidance on study approach and book usage for effective NEET preparation.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to effectively use NCERT Biology flowcharts for NEET?",
+      "options": [
+        "Just read them",
+        "Memorize as is",
+        "Understand and recreate",
+        "Skip flowcharts"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Understanding and recreating NCERT Biology flowcharts helps in better comprehension and memory retention.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one solve additional questions after NCERT for NEET?",
+      "options": [
+        "NCERT is sufficient",
+        "Yes, for more practice",
+        "Only if time permits",
+        "Not necessary"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Solving additional questions after NCERT provides more practice and exposure to different question patterns for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the importance of NCERT unit tests for NEET preparation?",
+      "options": [
+        "Not important",
+        "Only for school exams",
+        "Help in self-assessment",
+        "Time waste"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NCERT unit tests help in self-assessment and identifying weak areas that need more focus for NEET preparation.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to approach NCERT Chemistry stoichiometry for NEET?",
+      "options": [
+        "Skip numerical problems",
+        "Only learn formulas",
+        "Practice step-by-step calculations",
+        "Memorize solved examples"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Practicing step-by-step stoichiometric calculations builds problem-solving skills essential for NEET Chemistry.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one create acronyms from NCERT content for NEET?",
+      "options": [
+        "Not helpful",
+        "Only for formulas",
+        "Yes, for better memorization",
+        "Only for Biology"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Creating acronyms from NCERT content aids in better memorization and quick recall during NEET exam.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the best way to track NCERT syllabus completion for NEET?",
+      "options": [
+        "Don't track progress",
+        "Mental tracking only",
+        "Maintain a checklist",
+        "Only track difficult topics"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Maintaining a checklist helps track NCERT syllabus completion and ensures comprehensive NEET preparation.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to handle NCERT Physics units and dimensions for NEET?",
+      "options": [
+        "Skip this topic",
+        "Only memorize formulas",
+        "Understand concept and practice",
+        "Just read once"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Understanding units and dimensions concept and practicing problems helps in solving NEET Physics questions accurately.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one use NCERT books for last-minute NEET revision?",
+      "options": [
+        "Use only notes",
+        "Use only question banks",
+        "Yes, NCERT is best for revision",
+        "Use only mock tests"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NCERT books are best for last-minute revision as they contain authentic and comprehensive content for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the role of NCERT practical activities in NEET theory preparation?",
+      "options": [
+        "Not relevant for theory",
+        "Only for practical exams",
+        "Help in concept visualization",
+        "Complete waste of time"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NCERT practical activities help in concept visualization and better understanding of theoretical principles for NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to effectively use NCERT Chemistry tables for NEET?",
+      "options": [
+        "Just glance through",
+        "Memorize all data",
+        "Understand trends and patterns",
+        "Skip all tables"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Understanding trends and patterns in NCERT Chemistry tables helps in solving analytical questions in NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one solve NCERT questions in exam conditions for NEET practice?",
+      "options": [
+        "Not necessary",
+        "Only difficult questions",
+        "Yes, for time management",
+        "Only during final revision"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Solving NCERT questions in exam conditions helps develop time management skills essential for NEET success.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the importance of NCERT bibliography for NEET preparation?",
+      "options": [
+        "Not important",
+        "Only for research",
+        "Provides additional reading sources",
+        "Only for teachers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NCERT bibliography provides additional authentic reading sources for deeper understanding of NEET concepts.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to approach NCERT Biology evolution chapter for NEET?",
+      "options": [
+        "Skip evolution completely",
+        "Only read Darwin's theory",
+        "Study all theories and evidences",
+        "Only memorize names"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Studying all evolution theories and evidences comprehensively helps in solving NEET Biology evolution questions.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one create concept maps from NCERT chapters for NEET?",
+      "options": [
+        "Not necessary",
+        "Only for Biology",
+        "Yes, for all subjects",
+        "Only for revision"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Creating concept maps from NCERT chapters for all subjects helps in understanding interconnections and aids revision.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the best approach to NCERT Chemistry coordination compounds for NEET?",
+      "options": [
+        "Skip this chapter",
+        "Only learn nomenclature",
+        "Understand structure and bonding",
+        "Only memorize examples"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Understanding structure and bonding in coordination compounds helps solve complex NEET Chemistry questions effectively.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to handle NCERT Physics modern physics for NEET?",
+      "options": [
+        "Skip modern physics",
+        "Only learn formulas",
+        "Understand concepts and applications",
+        "Only read historical facts"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Understanding modern physics concepts and applications is crucial for solving NEET Physics questions in this area.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one maintain separate error logs for NCERT questions in NEET preparation?",
+      "options": [
+        "Not necessary",
+        "Only for difficult subjects",
+        "Yes, for all subjects",
+        "Only during final revision"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Maintaining error logs for NCERT questions helps identify weak areas and prevents repetition of mistakes in NEET.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the role of NCERT chapter objectives in NEET preparation?",
+      "options": [
+        "Skip objectives",
+        "Read once only",
+        "Use as study goals",
+        "Not important"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NCERT chapter objectives serve as clear study goals and help focus preparation efforts for NEET success.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to effectively integrate NCERT with NEET previous year papers?",
+      "options": [
+        "Study separately",
+        "Only focus on NCERT",
+        "Correlate concepts with questions",
+        "Only solve papers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Correlating NCERT concepts with previous year NEET questions helps understand application and exam patterns.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one use digital or physical NCERT books for NEET preparation?",
+      "options": [
+        "Only digital",
+        "Only physical",
+        "Based on personal preference",
+        "Digital is always better"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Choice between digital and physical NCERT books should be based on personal learning preference and comfort.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the importance of NCERT book acknowledgments for NEET students?",
+      "options": [
+        "Not important",
+        "Only for general knowledge",
+        "Shows expert involvement",
+        "Skip acknowledgments"
+      ],
+      "correctAnswer": 2,
+      "explanation": "NCERT acknowledgments show expert involvement in content creation, ensuring reliability for NEET preparation.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "How to approach NCERT Biology human health chapter for NEET?",
+      "options": [
+        "Skip health topics",
+        "Only read diseases",
+        "Study comprehensively with examples",
+        "Only memorize symptoms"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Comprehensive study of human health chapter with real examples helps in solving NEET Biology application questions.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "Should one create timeline charts from NCERT historical content for NEET?",
+      "options": [
+        "Not necessary",
+        "Only for Biology",
+        "Yes, helps in chronological understanding",
+        "Only for difficult topics"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Creating timeline charts from NCERT historical content helps in chronological understanding and better retention.",
+      "category": "NCERT Books"
+    },
+    {
+      "question": "What is the best way to conclude NCERT book study for NEET?",
+      "options": [
+        "Just finish reading",
+        "Take a comprehensive test",
+        "Review and consolidate learning",
+        "Move to next book immediately"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Reviewing and consolidating learning after completing each NCERT book ensures thorough understanding for NEET.",
+      "category": "NCERT Books"
+    }
+  ],
+  "Physics": [
+    {
+      "question": "What is the SI unit of force?",
+      "options": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Newton (N) is the SI unit of force, defined as the force required to accelerate 1 kg mass at 1 m/s².",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the speed of light in vacuum?",
+      "options": [
+        "3 × 10⁸ m/s",
+        "3 × 10⁶ m/s",
+        "3 × 10¹⁰ m/s",
+        "3 × 10⁹ m/s"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The speed of light in vacuum is approximately 3 × 10⁸ m/s, a fundamental constant in physics.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which law states that every action has an equal and opposite reaction?",
+      "options": [
+        "Newton's first law",
+        "Newton's second law",
+        "Newton's third law",
+        "Law of conservation of energy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Newton's third law states that for every action, there is an equal and opposite reaction.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the unit of electric current?",
+      "options": [
+        "Volt",
+        "Ampere",
+        "Ohm",
+        "Coulomb"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ampere (A) is the SI unit of electric current, representing the flow of electric charge.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the formula for kinetic energy?",
+      "options": [
+        "KE = mv",
+        "KE = ½mv²",
+        "KE = mv²",
+        "KE = 2mv²"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Kinetic energy is given by KE = ½mv², where m is mass and v is velocity.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which particle has no electric charge?",
+      "options": [
+        "Proton",
+        "Electron",
+        "Neutron",
+        "Alpha particle"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Neutrons are neutral particles with no electric charge, found in atomic nuclei.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the acceleration due to gravity on Earth?",
+      "options": [
+        "9.8 m/s²",
+        "10 m/s²",
+        "8.9 m/s²",
+        "11 m/s²"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The acceleration due to gravity on Earth is approximately 9.8 m/s² or 9.81 m/s².",
+      "category": "Physics"
+    },
+    {
+      "question": "Which type of wave requires a medium for propagation?",
+      "options": [
+        "Light wave",
+        "Radio wave",
+        "Sound wave",
+        "X-ray"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Sound waves are mechanical waves that require a medium (solid, liquid, or gas) for propagation.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the SI unit of power?",
+      "options": [
+        "Joule",
+        "Newton",
+        "Watt",
+        "Pascal"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Watt (W) is the SI unit of power, defined as energy transferred per unit time (J/s).",
+      "category": "Physics"
+    },
+    {
+      "question": "What is Ohm's law?",
+      "options": [
+        "V = I + R",
+        "V = IR",
+        "V = I/R",
+        "V = I - R"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Ohm's law states that voltage (V) equals current (I) times resistance (R): V = IR.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which lens converges parallel rays of light?",
+      "options": [
+        "Concave lens",
+        "Convex lens",
+        "Plane lens",
+        "Cylindrical lens"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A convex lens (converging lens) converges parallel rays of light to a focal point.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the unit of frequency?",
+      "options": [
+        "Hertz",
+        "Decibel",
+        "Meter",
+        "Second"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Hertz (Hz) is the SI unit of frequency, representing one cycle per second.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which quantity remains constant in uniform circular motion?",
+      "options": [
+        "Velocity",
+        "Acceleration",
+        "Speed",
+        "Displacement"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In uniform circular motion, speed remains constant while velocity and acceleration change direction.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the relationship between wavelength and frequency?",
+      "options": [
+        "λ = vf",
+        "λ = v/f",
+        "λ = v + f",
+        "λ = v - f"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Wavelength (λ) equals wave speed (v) divided by frequency (f): λ = v/f.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which law describes the relationship between pressure and volume of a gas at constant temperature?",
+      "options": [
+        "Charles's law",
+        "Boyle's law",
+        "Gay-Lussac's law",
+        "Avogadro's law"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Boyle's law states that at constant temperature, pressure is inversely proportional to volume (PV = constant).",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the first law of thermodynamics?",
+      "options": [
+        "Energy cannot be created or destroyed",
+        "Entropy always increases",
+        "Heat flows from hot to cold",
+        "Work equals force times distance"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The first law of thermodynamics states that energy cannot be created or destroyed, only transformed.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which particle was discovered by J.J. Thomson?",
+      "options": [
+        "Proton",
+        "Neutron",
+        "Electron",
+        "Positron"
+      ],
+      "correctAnswer": 2,
+      "explanation": "J.J. Thomson discovered the electron in 1897 through his cathode ray tube experiments.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the unit of electric potential?",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Ohm",
+        "Coulomb"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Volt (V) is the SI unit of electric potential, representing energy per unit charge.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which phenomenon explains why stars appear to twinkle?",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Interference"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Stars twinkle due to atmospheric refraction caused by varying air density and temperature.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the escape velocity from Earth?",
+      "options": [
+        "7.9 km/s",
+        "9.8 km/s",
+        "11.2 km/s",
+        "15.0 km/s"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The escape velocity from Earth is approximately 11.2 km/s, the minimum speed to escape Earth's gravitational field.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which type of current changes direction periodically?",
+      "options": [
+        "Direct current",
+        "Alternating current",
+        "Static current",
+        "Conventional current"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Alternating current (AC) changes direction periodically, unlike direct current (DC) which flows in one direction.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the principle behind the working of a transformer?",
+      "options": [
+        "Ohm's law",
+        "Faraday's law",
+        "Coulomb's law",
+        "Newton's law"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Transformers work on Faraday's law of electromagnetic induction, using changing magnetic fields to induce voltage.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which color has the longest wavelength in visible light?",
+      "options": [
+        "Red",
+        "Green",
+        "Blue",
+        "Violet"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Red light has the longest wavelength in the visible spectrum (approximately 700 nm).",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the unit of magnetic field strength?",
+      "options": [
+        "Tesla",
+        "Weber",
+        "Henry",
+        "Gauss"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Tesla (T) is the SI unit of magnetic field strength, though Gauss is also commonly used.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which law explains the bending of light when it passes from one medium to another?",
+      "options": [
+        "Snell's law",
+        "Newton's law",
+        "Hooke's law",
+        "Coulomb's law"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Snell's law describes the refraction of light: n₁sinθ₁ = n₂sinθ₂.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the centripetal force for circular motion?",
+      "options": [
+        "F = mv/r",
+        "F = mv²/r",
+        "F = mr²/v",
+        "F = mvr"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Centripetal force is given by F = mv²/r, where m is mass, v is velocity, and r is radius.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which principle explains the lift generated by aircraft wings?",
+      "options": [
+        "Pascal's principle",
+        "Archimedes' principle",
+        "Bernoulli's principle",
+        "Torricelli's principle"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Bernoulli's principle explains how faster airflow over the wing's upper surface creates lower pressure and lift.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the formula for gravitational potential energy?",
+      "options": [
+        "PE = mgh",
+        "PE = ½mv²",
+        "PE = mv",
+        "PE = mgh²"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Gravitational potential energy is PE = mgh, where m is mass, g is gravitational acceleration, and h is height.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which phenomenon occurs when light passes through a narrow slit?",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Diffraction",
+        "Dispersion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Diffraction occurs when light bends around obstacles or passes through narrow openings.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the unit of electric charge?",
+      "options": [
+        "Ampere",
+        "Volt",
+        "Coulomb",
+        "Farad"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Coulomb (C) is the SI unit of electric charge, representing the charge carried by electric current.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which type of electromagnetic radiation has the highest energy?",
+      "options": [
+        "Radio waves",
+        "X-rays",
+        "Gamma rays",
+        "Ultraviolet rays"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gamma rays have the highest energy and frequency in the electromagnetic spectrum.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the time period of a pendulum dependent on?",
+      "options": [
+        "Mass only",
+        "Length only",
+        "Length and gravitational acceleration",
+        "Amplitude only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A simple pendulum's time period depends on its length and gravitational acceleration: T = 2π√(l/g).",
+      "category": "Physics"
+    },
+    {
+      "question": "Which law states that the total momentum of an isolated system remains constant?",
+      "options": [
+        "Conservation of energy",
+        "Conservation of momentum",
+        "Conservation of charge",
+        "Conservation of mass"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The law of conservation of momentum states that total momentum remains constant in an isolated system.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the efficiency of an ideal Carnot engine?",
+      "options": [
+        "100%",
+        "(T₁ - T₂)/T₁",
+        "(T₂ - T₁)/T₂",
+        "50%"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Carnot engine efficiency is (T₁ - T₂)/T₁, where T₁ is hot reservoir temperature and T₂ is cold reservoir temperature.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which instrument is used to measure electric current?",
+      "options": [
+        "Voltmeter",
+        "Ammeter",
+        "Ohmmeter",
+        "Galvanometer"
+      ],
+      "correctAnswer": 1,
+      "explanation": "An ammeter is specifically designed to measure electric current in a circuit.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the refractive index of a medium?",
+      "options": [
+        "c/v",
+        "v/c",
+        "cv",
+        "c + v"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Refractive index n = c/v, where c is speed of light in vacuum and v is speed in the medium.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which effect describes the change in frequency of waves due to relative motion?",
+      "options": [
+        "Photoelectric effect",
+        "Compton effect",
+        "Doppler effect",
+        "Zeeman effect"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The Doppler effect describes the change in wave frequency due to relative motion between source and observer.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the unit of capacitance?",
+      "options": [
+        "Henry",
+        "Farad",
+        "Weber",
+        "Tesla"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Farad (F) is the SI unit of capacitance, representing the ability to store electric charge.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which law describes the force between two point charges?",
+      "options": [
+        "Coulomb's law",
+        "Gauss's law",
+        "Ampere's law",
+        "Faraday's law"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Coulomb's law describes the electrostatic force between two point charges: F = kq₁q₂/r².",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the work-energy theorem?",
+      "options": [
+        "Work equals force times displacement",
+        "Work done equals change in kinetic energy",
+        "Work equals power times time",
+        "Work equals potential energy"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The work-energy theorem states that the work done on an object equals its change in kinetic energy.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which type of mirror always forms a virtual image?",
+      "options": [
+        "Concave mirror",
+        "Convex mirror",
+        "Plane mirror",
+        "Both convex and plane mirrors"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Both convex mirrors and plane mirrors always form virtual images that cannot be projected on a screen.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the SI unit of momentum?",
+      "options": [
+        "kg⋅m/s",
+        "N⋅s",
+        "Both kg⋅m/s and N⋅s",
+        "J/s"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Momentum has units of kg⋅m/s, which is equivalent to N⋅s (newton-second).",
+      "category": "Physics"
+    },
+    {
+      "question": "Which phenomenon explains the blue color of the sky?",
+      "options": [
+        "Reflection",
+        "Refraction",
+        "Scattering",
+        "Dispersion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The blue color of the sky is due to Rayleigh scattering of sunlight by atmospheric particles.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the relationship between current and voltage in a resistor?",
+      "options": [
+        "Directly proportional",
+        "Inversely proportional",
+        "Exponentially related",
+        "No relationship"
+      ],
+      "correctAnswer": 0,
+      "explanation": "In a resistor, current and voltage are directly proportional (Ohm's law: V = IR).",
+      "category": "Physics"
+    },
+    {
+      "question": "Which quantity has the same units as energy?",
+      "options": [
+        "Force",
+        "Power",
+        "Work",
+        "Momentum"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Work has the same units as energy (Joules), as work is the transfer of energy.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the critical angle for total internal reflection?",
+      "options": [
+        "sin⁻¹(n₂/n₁)",
+        "sin⁻¹(n₁/n₂)",
+        "cos⁻¹(n₂/n₁)",
+        "tan⁻¹(n₁/n₂)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Critical angle θc = sin⁻¹(n₂/n₁), where n₁ > n₂ for total internal reflection to occur.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which law explains the induced EMF in a changing magnetic field?",
+      "options": [
+        "Lenz's law",
+        "Faraday's law",
+        "Ampere's law",
+        "Gauss's law"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Faraday's law states that induced EMF is proportional to the rate of change of magnetic flux.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the unit of angular velocity?",
+      "options": [
+        "rad/s",
+        "m/s",
+        "Hz",
+        "rpm"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Angular velocity is measured in radians per second (rad/s) in the SI system.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which type of wave has the highest penetrating power?",
+      "options": [
+        "Alpha rays",
+        "Beta rays",
+        "Gamma rays",
+        "X-rays"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Gamma rays have the highest penetrating power among common radiations due to their high energy.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the formula for the period of oscillation of a spring-mass system?",
+      "options": [
+        "T = 2π√(m/k)",
+        "T = 2π√(k/m)",
+        "T = 2π√(mk)",
+        "T = 2π/(mk)"
+      ],
+      "correctAnswer": 0,
+      "explanation": "The period of a spring-mass system is T = 2π√(m/k), where m is mass and k is spring constant.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which principle states that heat cannot spontaneously flow from cold to hot?",
+      "options": [
+        "First law of thermodynamics",
+        "Second law of thermodynamics",
+        "Third law of thermodynamics",
+        "Zeroth law of thermodynamics"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The second law of thermodynamics states that heat flows spontaneously from hot to cold, not the reverse.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the unit of magnetic flux?",
+      "options": [
+        "Tesla",
+        "Weber",
+        "Henry",
+        "Gauss"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Weber (Wb) is the SI unit of magnetic flux, equal to Tesla⋅meter².",
+      "category": "Physics"
+    },
+    {
+      "question": "Which equation represents Einstein's mass-energy relation?",
+      "options": [
+        "E = mc",
+        "E = mc²",
+        "E = m²c",
+        "E = 2mc"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Einstein's mass-energy relation is E = mc², showing the equivalence of mass and energy.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the condition for constructive interference of waves?",
+      "options": [
+        "Path difference = nλ",
+        "Path difference = (n + ½)λ",
+        "Path difference = λ/2",
+        "Path difference = 2λ"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Constructive interference occurs when path difference equals an integer multiple of wavelength (nλ).",
+      "category": "Physics"
+    },
+    {
+      "question": "Which instrument is used to measure very small currents?",
+      "options": [
+        "Ammeter",
+        "Galvanometer",
+        "Voltmeter",
+        "Multimeter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A galvanometer is a sensitive instrument used to detect and measure very small electric currents.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the relationship between electric field and electric potential?",
+      "options": [
+        "E = V/d",
+        "E = Vd",
+        "E = V + d",
+        "E = V - d"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Electric field E = V/d, where V is potential difference and d is distance (for uniform field).",
+      "category": "Physics"
+    },
+    {
+      "question": "Which type of lens is used to correct myopia?",
+      "options": [
+        "Convex lens",
+        "Concave lens",
+        "Bifocal lens",
+        "Cylindrical lens"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Concave (diverging) lenses are used to correct myopia (nearsightedness) by diverging light rays.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the unit of impulse?",
+      "options": [
+        "N⋅s",
+        "J⋅s",
+        "kg⋅m/s",
+        "Both N⋅s and kg⋅m/s"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Impulse has units of N⋅s (newton-second), which is equivalent to kg⋅m/s (momentum units).",
+      "category": "Physics"
+    },
+    {
+      "question": "Which law describes the relationship between the sides of a triangle formed by three forces in equilibrium?",
+      "options": [
+        "Law of sines",
+        "Law of cosines",
+        "Triangle law of vector addition",
+        "Parallelogram law"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The triangle law of vector addition describes how three forces in equilibrium form a closed triangle.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the de Broglie wavelength formula?",
+      "options": [
+        "λ = h/p",
+        "λ = p/h",
+        "λ = hp",
+        "λ = h + p"
+      ],
+      "correctAnswer": 0,
+      "explanation": "De Broglie wavelength is λ = h/p, where h is Planck's constant and p is momentum.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which effect proves the particle nature of light?",
+      "options": [
+        "Interference",
+        "Diffraction",
+        "Photoelectric effect",
+        "Polarization"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The photoelectric effect demonstrates the particle nature of light through photon interactions with electrons.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the unit of inductance?",
+      "options": [
+        "Farad",
+        "Henry",
+        "Weber",
+        "Tesla"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Henry (H) is the SI unit of inductance, representing the ability to store magnetic energy.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which quantity remains conserved in elastic collisions?",
+      "options": [
+        "Momentum only",
+        "Kinetic energy only",
+        "Both momentum and kinetic energy",
+        "Neither momentum nor kinetic energy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "In elastic collisions, both momentum and kinetic energy are conserved.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the work done by a conservative force in a closed path?",
+      "options": [
+        "Positive",
+        "Negative",
+        "Zero",
+        "Depends on the path"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Work done by a conservative force in any closed path is always zero.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which principle explains the operation of optical fibers?",
+      "options": [
+        "Refraction",
+        "Total internal reflection",
+        "Diffraction",
+        "Interference"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Optical fibers work on the principle of total internal reflection, keeping light confined within the fiber.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the relationship between frequency and wavelength in electromagnetic waves?",
+      "options": [
+        "f = cλ",
+        "f = c/λ",
+        "f = λ/c",
+        "f = c + λ"
+      ],
+      "correctAnswer": 1,
+      "explanation": "For electromagnetic waves, frequency f = c/λ, where c is speed of light and λ is wavelength.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which type of radioactive decay increases the atomic number by one?",
+      "options": [
+        "Alpha decay",
+        "Beta minus decay",
+        "Gamma decay",
+        "Beta plus decay"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Beta minus decay increases atomic number by one when a neutron converts to a proton and electron.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the minimum energy required to remove an electron from an atom called?",
+      "options": [
+        "Kinetic energy",
+        "Potential energy",
+        "Ionization energy",
+        "Binding energy"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ionization energy is the minimum energy required to remove an electron from an atom in its ground state.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which law states that the magnetic field around a current-carrying conductor is proportional to the current?",
+      "options": [
+        "Faraday's law",
+        "Lenz's law",
+        "Ampere's law",
+        "Gauss's law"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Ampere's law relates the magnetic field around a closed loop to the current passing through it.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the focal length of a plane mirror?",
+      "options": [
+        "Zero",
+        "Infinity",
+        "Negative infinity",
+        "One meter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "A plane mirror has infinite focal length because parallel rays reflected from it remain parallel.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which quantity is measured by a barometer?",
+      "options": [
+        "Temperature",
+        "Humidity",
+        "Atmospheric pressure",
+        "Wind speed"
+      ],
+      "correctAnswer": 2,
+      "explanation": "A barometer measures atmospheric pressure, typically using mercury or aneroid mechanisms.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the efficiency of an ideal machine?",
+      "options": [
+        "50%",
+        "75%",
+        "100%",
+        "More than 100%"
+      ],
+      "correctAnswer": 2,
+      "explanation": "An ideal machine has 100% efficiency, converting all input energy to useful output energy.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which principle explains why ice floats on water?",
+      "options": [
+        "Pascal's principle",
+        "Archimedes' principle",
+        "Bernoulli's principle",
+        "Torricelli's principle"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Archimedes' principle explains buoyancy; ice floats because its density is less than water's density.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the SI unit of luminous intensity?",
+      "options": [
+        "Lumen",
+        "Lux",
+        "Candela",
+        "Watt"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Candela (cd) is the SI unit of luminous intensity, one of the seven base units.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which type of modulation varies the frequency of the carrier wave?",
+      "options": [
+        "Amplitude modulation",
+        "Frequency modulation",
+        "Phase modulation",
+        "Pulse modulation"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Frequency modulation (FM) varies the frequency of the carrier wave according to the signal.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the range of audible sound frequencies for humans?",
+      "options": [
+        "10 Hz to 10 kHz",
+        "20 Hz to 20 kHz",
+        "50 Hz to 15 kHz",
+        "100 Hz to 10 kHz"
+      ],
+      "correctAnswer": 1,
+      "explanation": "The audible range for humans is typically 20 Hz to 20 kHz, varying with age and individual differences.",
+      "category": "Physics"
+    },
+    {
+      "question": "Which phenomenon is responsible for the formation of rainbow?",
+      "options": [
+        "Reflection only",
+        "Refraction only",
+        "Dispersion and total internal reflection",
+        "Interference"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Rainbow formation involves dispersion of white light and total internal reflection in water droplets.",
+      "category": "Physics"
+    },
+    {
+      "question": "What is the value of Planck's constant?",
+      "options": [
+        "6.626 × 10⁻³⁴ J⋅s",
+        "6.626 × 10⁻²³ J⋅s",
+        "6.626 × 10⁻³¹ J⋅s",
+        "6.626 × 10⁻²⁷ J⋅s"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Planck's constant h = 6.626 × 10⁻³⁴ J⋅s, a fundamental constant in quantum mechanics.",
+      "category": "Physics"
+    }
+  ],
+  "Revision Notes": [
+    {
+      "question": "What is the best format for NEET revision notes?",
+      "options": [
+        "Detailed paragraphs",
+        "Point-wise format",
+        "Mind maps and flowcharts",
+        "All of the above"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Using various formats like points, mind maps, and flowcharts makes revision notes more effective and memorable.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How often should revision notes be updated during NEET preparation?",
+      "options": [
+        "Never update",
+        "Weekly basis",
+        "Monthly basis",
+        "After each topic completion"
+      ],
+      "correctAnswer": 3,
+      "explanation": "Updating revision notes after completing each topic ensures comprehensive coverage and better retention.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What should be the ideal length of NEET revision notes per chapter?",
+      "options": [
+        "1-2 pages maximum",
+        "5-10 pages detailed",
+        "15-20 pages comprehensive",
+        "Length doesn't matter"
+      ],
+      "correctAnswer": 0,
+      "explanation": "Keeping revision notes to 1-2 pages per chapter ensures concise, focused content that can be quickly reviewed before NEET.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes include solved examples for NEET preparation?",
+      "options": [
+        "Never include examples",
+        "Only difficult examples",
+        "Yes, key solved examples",
+        "Only formula derivations"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Including key solved examples in revision notes helps understand application of concepts and problem-solving techniques.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What color coding system works best for NEET revision notes?",
+      "options": [
+        "No color coding needed",
+        "Random colors",
+        "Systematic color for different elements",
+        "Only black ink"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Systematic color coding for formulas, definitions, examples, and key points makes revision notes more organized and memorable.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to organize NEET revision notes for quick access?",
+      "options": [
+        "Random order",
+        "Alphabetical order",
+        "Topic-wise with index",
+        "Chronological order"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Organizing revision notes topic-wise with proper indexing allows quick access to specific concepts during NEET preparation.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes be handwritten or typed for NEET?",
+      "options": [
+        "Always handwritten",
+        "Always typed",
+        "Based on personal preference",
+        "Handwritten is always better"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Choice between handwritten and typed notes should be based on personal learning style and retention preference.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the best time to review NEET revision notes?",
+      "options": [
+        "Only before exams",
+        "Daily for 30 minutes",
+        "Weekly comprehensive review",
+        "Monthly review only"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Daily 30-minute review of revision notes ensures continuous reinforcement and better retention of NEET concepts.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to make NEET revision notes more visual and memorable?",
+      "options": [
+        "Only text content",
+        "Include diagrams and flowcharts",
+        "Use only bullet points",
+        "Avoid all visuals"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Including diagrams, flowcharts, and visual elements makes revision notes more engaging and aids memory retention.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes include mnemonics for NEET preparation?",
+      "options": [
+        "Never use mnemonics",
+        "Only for difficult topics",
+        "Yes, for better memorization",
+        "Mnemonics are childish"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Including mnemonics in revision notes helps memorize complex information and improves recall during NEET exam.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the ideal paper size for NEET revision notes?",
+      "options": [
+        "A4 size only",
+        "A5 size for portability",
+        "Any convenient size",
+        "Large chart papers"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Using any convenient paper size that suits your writing style and storage preferences works best for revision notes.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to ensure revision notes cover complete NEET syllabus?",
+      "options": [
+        "Random topic selection",
+        "Follow official syllabus checklist",
+        "Only important topics",
+        "Copy from textbooks"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Following official NEET syllabus checklist ensures comprehensive coverage and prevents missing important topics.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes include previous year NEET questions?",
+      "options": [
+        "Never include questions",
+        "Only current year questions",
+        "Yes, relevant previous year questions",
+        "Questions waste space"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Including relevant previous year NEET questions in revision notes helps understand exam patterns and question types.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the best way to review lengthy NEET revision notes?",
+      "options": [
+        "Read everything at once",
+        "Break into small sections",
+        "Skip difficult parts",
+        "Only read summaries"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Breaking lengthy revision notes into small, manageable sections makes review more effective and less overwhelming.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to make revision notes subject-specific for NEET?",
+      "options": [
+        "Same format for all subjects",
+        "Customize based on subject needs",
+        "Only text for all subjects",
+        "Subject doesn't matter"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Customizing revision note format based on subject requirements (diagrams for Biology, formulas for Physics) improves effectiveness.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes include common mistakes for NEET?",
+      "options": [
+        "Don't include mistakes",
+        "Only personal mistakes",
+        "Yes, common mistakes and solutions",
+        "Mistakes are demotivating"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Including common mistakes and their solutions in revision notes helps avoid similar errors during NEET exam.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the role of abbreviations in NEET revision notes?",
+      "options": [
+        "Avoid all abbreviations",
+        "Use standard abbreviations",
+        "Create personal abbreviations",
+        "Abbreviations cause confusion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Using standard abbreviations in revision notes saves space and time while maintaining clarity and understanding.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to maintain consistency in NEET revision notes format?",
+      "options": [
+        "Change format frequently",
+        "Use different formats for variety",
+        "Maintain consistent structure",
+        "Format doesn't matter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Maintaining consistent structure and format in revision notes makes them easier to navigate and review efficiently.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes be shared with peers for NEET preparation?",
+      "options": [
+        "Never share notes",
+        "Always share everything",
+        "Share selectively for mutual benefit",
+        "Sharing reduces advantage"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Selective sharing of revision notes can provide mutual benefit through different perspectives and collaborative learning.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the importance of page numbering in NEET revision notes?",
+      "options": [
+        "Not necessary",
+        "Only for thick notebooks",
+        "Essential for organization",
+        "Waste of time"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Page numbering is essential for organizing revision notes and creating effective index systems for quick reference.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to handle updates in NEET syllabus for revision notes?",
+      "options": [
+        "Ignore syllabus changes",
+        "Start notes from scratch",
+        "Update existing notes accordingly",
+        "Wait for official confirmation"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Updating existing revision notes according to syllabus changes ensures current and relevant preparation material.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes include difficulty levels for NEET topics?",
+      "options": [
+        "All topics are equal",
+        "Don't mark difficulty",
+        "Yes, mark difficulty levels",
+        "Difficulty is subjective"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Marking difficulty levels in revision notes helps prioritize study time and focus more on challenging topics.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the best binding method for NEET revision notes?",
+      "options": [
+        "Loose sheets only",
+        "Spiral binding",
+        "Based on usage preference",
+        "Expensive binding always"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Choosing binding method based on usage preference (portability, durability, ease of updates) works best for revision notes.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to incorporate feedback into NEET revision notes?",
+      "options": [
+        "Ignore all feedback",
+        "Accept all suggestions",
+        "Evaluate and incorporate selectively",
+        "Feedback is not useful"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Evaluating feedback from teachers and peers and incorporating useful suggestions improves revision note quality.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes include time allocation for NEET topics?",
+      "options": [
+        "Time allocation not needed",
+        "Only for difficult topics",
+        "Yes, for effective planning",
+        "Time varies for everyone"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Including time allocation suggestions in revision notes helps plan study schedule and manage preparation time effectively.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the role of cross-references in NEET revision notes?",
+      "options": [
+        "Avoid cross-references",
+        "Only within same subject",
+        "Include relevant cross-references",
+        "Cross-references cause confusion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Including relevant cross-references in revision notes helps understand interconnections between different topics and concepts.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to make revision notes portable for NEET preparation?",
+      "options": [
+        "Use large notebooks only",
+        "Create compact, organized notes",
+        "Digital notes only",
+        "Portability not important"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Creating compact, well-organized revision notes makes them portable for study during travel or breaks.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes include motivational quotes for NEET?",
+      "options": [
+        "Never include quotes",
+        "Only academic content",
+        "Occasional motivational elements",
+        "Quotes waste space"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Including occasional motivational elements in revision notes can boost morale and maintain positive attitude during preparation.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the best way to start creating NEET revision notes?",
+      "options": [
+        "Start with difficult topics",
+        "Begin with familiar topics",
+        "Random topic selection",
+        "Wait until syllabus completion"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Beginning revision notes with familiar topics builds confidence and establishes good note-making habits for NEET preparation.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to ensure revision notes remain updated throughout NEET preparation?",
+      "options": [
+        "Update once at the end",
+        "Regular periodic updates",
+        "Never update notes",
+        "Update only when necessary"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Regular periodic updates ensure revision notes remain current with learning progress and new insights gained during preparation.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes include personal insights for NEET?",
+      "options": [
+        "Only textbook content",
+        "Never personal insights",
+        "Yes, include personal understanding",
+        "Personal insights are wrong"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Including personal insights and understanding in revision notes makes them more meaningful and aids better retention.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the importance of white space in NEET revision notes?",
+      "options": [
+        "Fill every space",
+        "White space is wasteful",
+        "Adequate white space improves readability",
+        "Only use margins"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Adequate white space in revision notes improves readability, reduces visual clutter, and allows for additional annotations.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to handle conflicting information while making NEET revision notes?",
+      "options": [
+        "Include all conflicting information",
+        "Ignore conflicts",
+        "Verify and include correct information",
+        "Choose randomly"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Verifying conflicting information from reliable sources and including correct information ensures accuracy in revision notes.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes be subject to peer review for NEET?",
+      "options": [
+        "Never show to others",
+        "Always get peer review",
+        "Occasional peer review helpful",
+        "Peer review wastes time"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Occasional peer review of revision notes can help identify gaps, errors, and provide different perspectives on content organization.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the role of summary boxes in NEET revision notes?",
+      "options": [
+        "Avoid summary boxes",
+        "Only detailed explanations",
+        "Include summary boxes for key points",
+        "Summary boxes are redundant"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Including summary boxes for key points in revision notes provides quick reference and reinforces important concepts.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to balance detail and brevity in NEET revision notes?",
+      "options": [
+        "Always detailed notes",
+        "Always brief notes",
+        "Balance based on topic importance",
+        "Detail level doesn't matter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Balancing detail and brevity based on topic importance and personal understanding needs creates most effective revision notes.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes include practice questions for NEET?",
+      "options": [
+        "Never include questions",
+        "Only theory content",
+        "Yes, include relevant practice questions",
+        "Questions belong in separate books"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Including relevant practice questions in revision notes provides immediate application opportunity and reinforces learning.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the best way to review NEET revision notes before exam?",
+      "options": [
+        "Read once quickly",
+        "Multiple focused readings",
+        "Only look at headings",
+        "Skip revision notes"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Multiple focused readings of revision notes with active recall helps consolidate knowledge before NEET exam.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to make revision notes interactive for NEET preparation?",
+      "options": [
+        "Only passive reading",
+        "Include self-testing elements",
+        "Avoid interaction",
+        "Interactive notes are complex"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Including self-testing elements like blank spaces for key terms makes revision notes interactive and improves retention.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes follow textbook sequence for NEET?",
+      "options": [
+        "Always follow textbook order",
+        "Never follow textbook sequence",
+        "Customize based on understanding",
+        "Sequence doesn't matter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Customizing revision note sequence based on personal understanding and logical connections often works better than textbook order.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the importance of consistency in NEET revision note symbols?",
+      "options": [
+        "Use different symbols always",
+        "Symbols are not important",
+        "Maintain consistent symbol usage",
+        "Random symbols work fine"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Maintaining consistent symbol usage in revision notes creates visual patterns that aid recognition and memory recall.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to handle formula-heavy topics in NEET revision notes?",
+      "options": [
+        "Skip all formulas",
+        "Only write formulas",
+        "Include formulas with applications",
+        "Memorize without understanding"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Including formulas along with their applications and derivation hints in revision notes ensures better understanding and retention.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes include common exam tricks for NEET?",
+      "options": [
+        "Focus only on concepts",
+        "Tricks are not important",
+        "Yes, include useful exam strategies",
+        "Tricks are cheating"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Including useful exam strategies and time-saving tricks in revision notes helps optimize performance during NEET exam.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the role of margins in NEET revision notes?",
+      "options": [
+        "Don't use margins",
+        "Only for decoration",
+        "Use for additional notes and corrections",
+        "Margins waste space"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Using margins for additional notes, corrections, and cross-references makes revision notes more comprehensive and updatable.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to ensure revision notes aid long-term retention for NEET?",
+      "options": [
+        "One-time creation is enough",
+        "Regular review and active recall",
+        "Just reading is sufficient",
+        "Retention happens automatically"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Regular review combined with active recall techniques ensures revision notes contribute to long-term retention of NEET concepts.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes be customized for weak areas in NEET?",
+      "options": [
+        "Same detail for all topics",
+        "Ignore weak areas",
+        "Yes, more detail for weak areas",
+        "Weak areas are hopeless"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Providing more detail and examples for weak areas in revision notes helps strengthen understanding and improve performance.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the best way to conclude each topic in NEET revision notes?",
+      "options": [
+        "Abrupt ending",
+        "Include topic summary",
+        "No conclusion needed",
+        "Just list formulas"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Including topic summary at the end of each section in revision notes provides closure and reinforces key learning points.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to make revision notes error-free for NEET preparation?",
+      "options": [
+        "Errors don't matter",
+        "Single proofreading is enough",
+        "Multiple reviews and verification",
+        "Perfect notes are impossible"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Multiple reviews and verification against reliable sources help create error-free revision notes for accurate NEET preparation.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes include study schedule for NEET?",
+      "options": [
+        "Schedule belongs elsewhere",
+        "Never include schedules",
+        "Yes, include topic-wise schedule",
+        "Schedules are restrictive"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Including topic-wise study schedule in revision notes helps maintain organized preparation and track progress effectively.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the importance of logical flow in NEET revision notes?",
+      "options": [
+        "Random order works fine",
+        "Logical flow not important",
+        "Essential for understanding",
+        "Only chronological order matters"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Maintaining logical flow in revision notes ensures better understanding of concept relationships and aids memory formation.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to handle interdisciplinary topics in NEET revision notes?",
+      "options": [
+        "Keep subjects completely separate",
+        "Ignore interdisciplinary connections",
+        "Show connections between subjects",
+        "Focus on one subject only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Showing connections between subjects in revision notes helps understand interdisciplinary topics that often appear in NEET.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes be backed up for NEET preparation?",
+      "options": [
+        "Backup not necessary",
+        "Only digital notes need backup",
+        "Yes, create backup copies",
+        "Handwritten notes can't be backed up"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Creating backup copies of revision notes (photocopies or digital scans) protects against loss of valuable preparation material.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the role of feedback loops in NEET revision notes?",
+      "options": [
+        "Feedback loops are complex",
+        "Not applicable to notes",
+        "Include self-assessment opportunities",
+        "Feedback loops waste time"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Including self-assessment opportunities in revision notes creates feedback loops that help identify areas needing more attention.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to maintain motivation while creating NEET revision notes?",
+      "options": [
+        "Motivation is not needed",
+        "Set small, achievable goals",
+        "Work continuously without breaks",
+        "Motivation comes naturally"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Setting small, achievable goals for note-making sessions helps maintain motivation and ensures consistent progress.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes include memory palace techniques for NEET?",
+      "options": [
+        "Memory techniques are gimmicks",
+        "Only for weak students",
+        "Yes, for complex information",
+        "NEET doesn't require memory techniques"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Including memory palace and other memory techniques in revision notes helps retain complex information more effectively.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the best way to test effectiveness of NEET revision notes?",
+      "options": [
+        "Notes are always effective",
+        "Testing is not necessary",
+        "Regular self-testing and mock exams",
+        "Ask others to evaluate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Regular self-testing and performance in mock exams helps evaluate and improve the effectiveness of revision notes.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to adapt revision notes for different learning styles in NEET?",
+      "options": [
+        "One style fits all",
+        "Learning styles don't matter",
+        "Customize based on personal style",
+        "Only visual learning works"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Customizing revision notes based on personal learning style (visual, auditory, kinesthetic) maximizes their effectiveness.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes evolve throughout NEET preparation?",
+      "options": [
+        "Keep notes static",
+        "Change completely every month",
+        "Allow gradual evolution and improvement",
+        "Evolution causes confusion"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Allowing revision notes to evolve gradually based on learning progress and new insights improves their quality and relevance.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the ultimate purpose of NEET revision notes?",
+      "options": [
+        "To impress others",
+        "To replace textbooks",
+        "To aid quick and effective revision",
+        "To fill time"
+      ],
+      "correctAnswer": 2,
+      "explanation": "The ultimate purpose of revision notes is to aid quick and effective revision, consolidating learning for NEET success.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to ensure revision notes complement other NEET study materials?",
+      "options": [
+        "Use notes exclusively",
+        "Ignore other materials",
+        "Integrate with overall study plan",
+        "Keep everything separate"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Integrating revision notes with overall study plan and other materials creates comprehensive and cohesive NEET preparation strategy.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes include emotional associations for NEET topics?",
+      "options": [
+        "Keep emotions out of study",
+        "Emotions are distracting",
+        "Positive associations can help memory",
+        "Only facts matter"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Creating positive emotional associations with difficult topics in revision notes can improve memory retention and reduce anxiety.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the best way to organize multiple subjects in NEET revision notes?",
+      "options": [
+        "Mix all subjects together",
+        "Separate notebooks for each subject",
+        "Based on personal preference and convenience",
+        "Digital organization only"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Organizing multiple subjects based on personal preference and convenience (separate or integrated) works best for individual needs.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "How to make revision notes sustainable for long-term NEET preparation?",
+      "options": [
+        "Create once and never change",
+        "Constantly recreate from scratch",
+        "Build incrementally with regular updates",
+        "Sustainability is not important"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Building revision notes incrementally with regular updates creates sustainable preparation material that grows with learning progress.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "Should revision notes reflect personal learning journey for NEET?",
+      "options": [
+        "Keep notes impersonal",
+        "Only include standard content",
+        "Yes, reflect personal insights and growth",
+        "Personal elements are unprofessional"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Reflecting personal insights and learning journey in revision notes makes them more meaningful and effective for individual preparation.",
+      "category": "Revision Notes"
+    },
+    {
+      "question": "What is the final advice for creating effective NEET revision notes?",
+      "options": [
+        "Copy from others",
+        "Make them as detailed as possible",
+        "Focus on clarity, organization, and personal relevance",
+        "Quantity over quality"
+      ],
+      "correctAnswer": 2,
+      "explanation": "Focusing on clarity, organization, and personal relevance while creating revision notes ensures they serve their purpose effectively for NEET success.",
+      "category": "Revision Notes"
+    }
+  ]
+}
+}
