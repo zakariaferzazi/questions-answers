@@ -62,7 +62,7 @@
       "category": "Calculus AB"
     }
   ],
-  "questions": [
+  "Calculus BC": [
     {
       "question": "What is the derivative of f(x) = x³ + 2x² - 5x + 1?",
       "options": [
@@ -73,7 +73,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Using the power rule, d/dx[x³ + 2x² - 5x + 1] = 3x² + 4x - 5.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫(2x + 3)dx?",
@@ -85,7 +85,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "∫(2x + 3)dx = x² + 3x + C, where C is the constant of integration.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is lim(x→0) (sin x)/x?",
@@ -97,7 +97,7 @@
       ],
       "correctAnswer": 1,
       "explanation": "This is a standard limit: lim(x→0) (sin x)/x = 1.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = e^x, what is f'(x)?",
@@ -109,7 +109,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The derivative of e^x is e^x itself.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the second derivative of f(x) = 4x³ - 6x² + 2x?",
@@ -121,7 +121,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "f'(x) = 12x² - 12x + 2, so f''(x) = 24x - 12.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫x²dx from 0 to 2?",
@@ -133,7 +133,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "∫x²dx = x³/3, so ∫₀² x²dx = [x³/3]₀² = 8/3 - 0 = 8/3.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If y = ln(x), what is dy/dx?",
@@ -145,7 +145,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The derivative of ln(x) is 1/x.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = sin(2x)?",
@@ -157,7 +157,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Using the chain rule, d/dx[sin(2x)] = cos(2x) · 2 = 2cos(2x).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is lim(x→∞) (1 + 1/x)^x?",
@@ -169,7 +169,7 @@
       ],
       "correctAnswer": 1,
       "explanation": "This is the definition of e: lim(x→∞) (1 + 1/x)^x = e.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫e^x dx?",
@@ -181,7 +181,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The integral of e^x is e^x + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = x⁴ - 3x² + 1, what is f'(2)?",
@@ -193,7 +193,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "f'(x) = 4x³ - 6x, so f'(2) = 4(8) - 6(2) = 32 - 12 = 20.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = tan(x)?",
@@ -205,7 +205,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The derivative of tan(x) is sec²(x).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫1/x dx?",
@@ -217,7 +217,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The integral of 1/x is ln|x| + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is lim(x→0) (e^x - 1)/x?",
@@ -229,7 +229,7 @@
       ],
       "correctAnswer": 1,
       "explanation": "Using L'Hôpital's rule or the definition of e, this limit equals 1.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = x²sin(x), what is f'(x)?",
@@ -241,7 +241,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Using the product rule: f'(x) = 2x·sin(x) + x²·cos(x).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the area under the curve y = x from x = 0 to x = 4?",
@@ -253,7 +253,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "∫₀⁴ x dx = [x²/2]₀⁴ = 16/2 - 0 = 8.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = cos(x²)?",
@@ -265,7 +265,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Using the chain rule: f'(x) = -sin(x²) · 2x = -2x sin(x²).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫cos(x) dx?",
@@ -277,7 +277,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The integral of cos(x) is sin(x) + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is lim(x→0) x·sin(1/x)?",
@@ -289,7 +289,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Since |sin(1/x)| ≤ 1, we have |x·sin(1/x)| ≤ |x|, so the limit is 0 by the squeeze theorem.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = √x, what is f'(4)?",
@@ -301,7 +301,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "f'(x) = 1/(2√x), so f'(4) = 1/(2√4) = 1/4.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = e^(2x)?",
@@ -313,7 +313,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Using the chain rule: f'(x) = e^(2x) · 2 = 2e^(2x).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫sin(x) dx?",
@@ -325,7 +325,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The integral of sin(x) is -cos(x) + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is lim(x→1) (x² - 1)/(x - 1)?",
@@ -337,7 +337,7 @@
       ],
       "correctAnswer": 2,
       "explanation": "Factoring: (x² - 1)/(x - 1) = (x + 1)(x - 1)/(x - 1) = x + 1, so the limit is 1 + 1 = 2.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = ln(x²), what is f'(x)?",
@@ -349,7 +349,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "f(x) = ln(x²) = 2ln(x), so f'(x) = 2/x.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the second derivative test for f(x) at a critical point c?",
@@ -361,7 +361,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "If f'(c) = 0 and f''(c) > 0, then f has a local minimum at c.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫x·e^x dx?",
@@ -373,7 +373,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Using integration by parts: ∫x·e^x dx = xe^x - e^x + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = arcsin(x)?",
@@ -385,7 +385,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The derivative of arcsin(x) is 1/√(1-x²).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is lim(x→0⁺) x·ln(x)?",
@@ -397,7 +397,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Rewriting as ln(x)/(1/x) and using L'Hôpital's rule gives 0.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = x^x, what is f'(x)?",
@@ -409,7 +409,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Using logarithmic differentiation: f'(x) = x^x(ln(x) + 1).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫1/(1+x²) dx?",
@@ -421,7 +421,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The integral of 1/(1+x²) is arctan(x) + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the Mean Value Theorem?",
@@ -433,7 +433,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The MVT states there exists c such that the instantaneous rate equals the average rate.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = sec(x)?",
@@ -445,7 +445,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The derivative of sec(x) is sec(x)tan(x).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫tan(x) dx?",
@@ -457,7 +457,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "∫tan(x) dx = ∫sin(x)/cos(x) dx = -ln|cos(x)| + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is lim(x→∞) (1 + 2/x)^(3x)?",
@@ -469,7 +469,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "This limit can be rewritten as [lim(u→∞)(1 + 1/u)^u]^6 = e^6.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = |x|, what happens at x = 0?",
@@ -481,7 +481,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The absolute value function has a corner at x = 0, making it not differentiable there.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = cot(x)?",
@@ -493,7 +493,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The derivative of cot(x) is -csc²(x).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫sec²(x) dx?",
@@ -505,7 +505,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The integral of sec²(x) is tan(x) + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the Fundamental Theorem of Calculus Part 1?",
@@ -517,7 +517,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "FTC Part 1 relates the derivative of an integral to the original function.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = 3x⁴ - 8x³ + 6x² - 1, at what x-values might f have critical points?",
@@ -529,7 +529,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Critical points occur where the derivative is zero or undefined.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = arctan(x)?",
@@ -541,7 +541,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The derivative of arctan(x) is 1/(1+x²).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫1/√(1-x²) dx?",
@@ -553,7 +553,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The integral of 1/√(1-x²) is arcsin(x) + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is lim(x→0) (cos(x) - 1)/x²?",
@@ -565,7 +565,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Using L'Hôpital's rule twice or Taylor series: the limit is -1/2.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = e^(sin(x)), what is f'(x)?",
@@ -577,7 +577,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Using the chain rule: f'(x) = e^(sin(x)) · cos(x).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the integral ∫x²e^x dx?",
@@ -589,7 +589,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Using integration by parts twice: ∫x²e^x dx = e^x(x² - 2x + 2) + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What does it mean for a function to be continuous at x = a?",
@@ -601,7 +601,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Continuity requires the limit to exist and equal the function value.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = ln(sin(x))?",
@@ -613,7 +613,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Using the chain rule: f'(x) = (1/sin(x)) · cos(x) = cot(x).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫csc²(x) dx?",
@@ -625,7 +625,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The integral of csc²(x) is -cot(x) + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is lim(h→0) [f(a+h) - f(a)]/h?",
@@ -637,7 +637,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "This is the definition of the derivative at x = a.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = x³ - 6x² + 9x + 1, what are the critical points?",
@@ -649,7 +649,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "f'(x) = 3x² - 12x + 9 = 3(x² - 4x + 3) = 3(x-1)(x-3) = 0 when x = 1, 3.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = x^n where n is a constant?",
@@ -661,7 +661,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "This is the power rule: d/dx[x^n] = nx^(n-1).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫x^n dx where n ≠ -1?",
@@ -673,7 +673,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The power rule for integration: ∫x^n dx = x^(n+1)/(n+1) + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is lim(x→∞) (3x² + 2x - 1)/(x² - x + 4)?",
@@ -685,7 +685,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "For rational functions, the limit is the ratio of leading coefficients: 3/1 = 3.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = sin(x)/x, what is lim(x→0) f(x)?",
@@ -697,7 +697,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "This is a standard limit: lim(x→0) sin(x)/x = 1.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = a^x where a > 0, a ≠ 1?",
@@ -709,7 +709,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The derivative of a^x is a^x · ln(a).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫a^x dx where a > 0, a ≠ 1?",
@@ -721,7 +721,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The integral of a^x is a^x/ln(a) + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the intermediate value theorem?",
@@ -733,7 +733,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The IVT guarantees that continuous functions take on all intermediate values.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = 1/(1-x), what is the nth derivative f^(n)(x)?",
@@ -745,7 +745,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "By induction, f^(n)(x) = n!/(1-x)^(n+1).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = csc(x)?",
@@ -757,7 +757,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The derivative of csc(x) is -csc(x)cot(x).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫cot(x) dx?",
@@ -769,7 +769,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "∫cot(x) dx = ∫cos(x)/sin(x) dx = ln|sin(x)| + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is lim(x→0) (tan(x) - sin(x))/x³?",
@@ -781,7 +781,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Using Taylor series or L'Hôpital's rule three times, the limit is 1/2.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = x·sin(1/x) for x ≠ 0 and f(0) = 0, is f differentiable at x = 0?",
@@ -793,7 +793,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Using the definition of derivative, f'(0) exists and equals 0.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = log_a(x) where a > 0, a ≠ 1?",
@@ -805,7 +805,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The derivative of log_a(x) is 1/(x·ln(a)).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫1/(x·ln(x)) dx?",
@@ -817,7 +817,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Let u = ln(x), then du = dx/x, so ∫1/(x·ln(x)) dx = ∫du/u = ln|u| + C = ln|ln(x)| + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is lim(x→∞) x·sin(1/x)?",
@@ -829,7 +829,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Let u = 1/x, then as x→∞, u→0, so the limit becomes lim(u→0) sin(u)/u = 1.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = e^x·cos(x), what is f'(x)?",
@@ -841,7 +841,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Using the product rule: f'(x) = e^x·cos(x) + e^x·(-sin(x)) = e^x(cos(x) - sin(x)).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the Squeeze Theorem?",
@@ -853,7 +853,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The Squeeze Theorem helps find limits by 'squeezing' between two functions with the same limit.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = arcsec(x)?",
@@ -865,7 +865,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The derivative of arcsec(x) is 1/(|x|√(x²-1)).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫1/(x²-1) dx?",
@@ -877,7 +877,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Using partial fractions: 1/(x²-1) = 1/2[1/(x-1) - 1/(x+1)].",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is lim(x→0⁺) x^x?",
@@ -889,7 +889,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Taking ln: lim(x→0⁺) x·ln(x) = 0, so lim(x→0⁺) x^x = e^0 = 1.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = sin^(-1)(x), what is the domain of f?",
@@ -901,7 +901,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The domain of arcsin(x) is [-1, 1] since sin has range [-1, 1].",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = sinh(x)?",
@@ -913,7 +913,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The derivative of sinh(x) is cosh(x).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫sinh(x) dx?",
@@ -925,7 +925,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The integral of sinh(x) is cosh(x) + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is lim(x→∞) (e^x - e^(-x))/(e^x + e^(-x))?",
@@ -937,7 +937,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Dividing numerator and denominator by e^x gives (1 - e^(-2x))/(1 + e^(-2x)) → 1.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = x²/(x²+1), what are the horizontal asymptotes?",
@@ -949,7 +949,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "lim(x→±∞) x²/(x²+1) = lim(x→±∞) 1/(1+1/x²) = 1.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = tanh(x)?",
@@ -961,7 +961,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The derivative of tanh(x) is sech²(x).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫sech²(x) dx?",
@@ -973,7 +973,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The integral of sech²(x) is tanh(x) + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is lim(x→0) (sinh(x) - x)/x³?",
@@ -985,7 +985,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "Using Taylor series: sinh(x) = x + x³/6 + ..., so (sinh(x) - x)/x³ → 1/6.",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "If f(x) = 1/x, what is the equation of the tangent line at x = 2?",
@@ -997,7 +997,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "f'(x) = -1/x², so f'(2) = -1/4. Point: (2, 1/2). Line: y - 1/2 = -1/4(x - 2).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is the derivative of f(x) = cosh(x)?",
@@ -1009,7 +1009,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The derivative of cosh(x) is sinh(x).",
-      "category": "questions"
+      "category": "Calculus BC"
     },
     {
       "question": "What is ∫cosh(x) dx?",
@@ -1021,7 +1021,7 @@
       ],
       "correctAnswer": 0,
       "explanation": "The integral of cosh(x) is sinh(x) + C.",
-      "category": "questions"
+      "category": "Calculus BC"
     }
   ],
   "Exam Preparation": [
